@@ -189,7 +189,8 @@
     "criteria": {
       "minecraft:frozen_river": "2024-11-27 12:07:34 +0000",
       "minecraft:snowy_plains": "2024-11-27 11:54:19 +0000",
-      "minecraft:snowy_taiga": "2024-11-27 12:07:36 +0000"
+      "minecraft:snowy_taiga": "2024-11-27 12:07:36 +0000",
+      "minecraft:dripstone_caves": "2024-11-27 16:36:36 +0000"
     },
     "done": false
   },
@@ -343,81 +344,15 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "rats:recipes/misc/upgrades/ender_upgrade": {
     "criteria": {
-      "log_spam_fixer": "2024-11-27 12:55:15 +0000"
+      "has_pearl": "2024-11-27 12:07:27 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "skilltree:recipes/misc/scholar_necklace": {
     "criteria": {
-      "log_spam_fixer": "2024-11-27 12:55:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-27 12:55:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-27 12:55:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-27 12:55:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-27 12:55:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-27 12:55:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-27 12:55:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-27 12:55:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-27 12:55:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-27 12:55:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-27 12:55:15 +0000"
-    },
-    "done": false
-  },
-  "aether:recipes/combat/netherite_sword_repairing": {
-    "criteria": {
-      "has_netherite_sword": "2024-11-27 12:31:57 +0000"
+      "has_ender_pearl": "2024-11-27 12:07:27 +0000"
     },
     "done": true
   },
@@ -439,21 +374,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
-    "criteria": {
-      "fried_egg": "2024-11-27 12:43:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2024-11-27 12:08:50 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/baked_cod_stew": {
-    "criteria": {
-      "has_any_ingredient": "2024-11-27 12:43:48 +0000"
     },
     "done": true
   },
@@ -487,18 +410,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/pancake_fd": {
-    "criteria": {
-      "forge:eggs": "2024-11-27 12:43:48 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/food/skyroot_milk_bucket_cake": {
-    "criteria": {
-      "has_egg": "2024-11-27 12:43:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2024-11-27 12:08:50 +0000"
@@ -508,6 +419,120 @@
   "twilightforest:recipes/transportation/canopy_boat": {
     "criteria": {
       "in_water": "2024-11-27 12:08:50 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/transportation/river_boat": {
+    "criteria": {
+      "in_water": "2024-11-27 12:08:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_boat": {
+    "criteria": {
+      "in_water": "2024-11-27 12:08:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-27 12:08:50 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/transportation/driftwood_boat": {
+    "criteria": {
+      "in_water": "2024-11-27 12:08:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-11-27 12:08:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-27 12:08:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_boat": {
+    "criteria": {
+      "in_water": "2024-11-27 12:08:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_boat": {
+    "criteria": {
+      "in_water": "2024-11-27 12:08:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-11-27 12:08:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-27 12:08:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_boat": {
+    "criteria": {
+      "in_water": "2024-11-27 12:08:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_sword_repairing": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-27 12:31:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-11-27 12:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2024-11-27 12:31:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-11-27 12:31:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2024-11-27 12:43:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-27 12:43:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2024-11-27 12:43:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_egg": "2024-11-27 12:43:48 +0000"
     },
     "done": true
   },
@@ -529,81 +554,9 @@
     },
     "done": true
   },
-  "upgrade_aquatic:recipes/transportation/river_boat": {
-    "criteria": {
-      "in_water": "2024-11-27 12:08:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:zombie": "2024-11-27 12:31:59 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/sorting_boat": {
-    "criteria": {
-      "in_water": "2024-11-27 12:08:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2024-11-27 12:08:50 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/ender_upgrade": {
-    "criteria": {
-      "has_pearl": "2024-11-27 12:07:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:zombie": "2024-11-27 12:31:59 +0000"
-    },
-    "done": false
-  },
-  "upgrade_aquatic:recipes/transportation/driftwood_boat": {
-    "criteria": {
-      "in_water": "2024-11-27 12:08:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/bamboo_raft": {
-    "criteria": {
-      "in_water": "2024-11-27 12:08:50 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/misc/scholar_necklace": {
-    "criteria": {
-      "has_ender_pearl": "2024-11-27 12:07:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2024-11-27 12:31:59 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/twilight_oak_boat": {
-    "criteria": {
-      "in_water": "2024-11-27 12:08:50 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2024-11-27 12:43:48 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/time_boat": {
-    "criteria": {
-      "in_water": "2024-11-27 12:08:50 +0000"
     },
     "done": true
   },
@@ -619,9 +572,15 @@
     },
     "done": true
   },
-  "twilightforest:recipes/transportation/transformation_boat": {
+  "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
-      "in_water": "2024-11-27 12:08:50 +0000"
+      "has_any_ingredient": "2024-11-27 12:43:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2024-11-27 12:43:48 +0000"
     },
     "done": true
   },
@@ -631,33 +590,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "in_water": "2024-11-27 12:08:50 +0000"
+      "log_spam_fixer": "2024-11-27 16:48:05 +0000"
     },
-    "done": true
+    "done": false
   },
-  "minecraft:recipes/transportation/oak_boat": {
+  "incendium:technical/on_kill": {
     "criteria": {
-      "in_water": "2024-11-27 12:08:50 +0000"
+      "log_spam_fixer": "2024-11-27 16:48:05 +0000"
     },
-    "done": true
+    "done": false
   },
-  "farmersdelight:recipes/cooking/fried_rice": {
+  "incendium:technical/on_inventory_change": {
     "criteria": {
-      "has_any_ingredient": "2024-11-27 12:43:48 +0000"
+      "log_spam_fixer": "2024-11-27 16:48:05 +0000"
     },
-    "done": true
+    "done": false
   },
-  "twilightforest:recipes/transportation/dark_boat": {
+  "incendium:technical/holy_wrath": {
     "criteria": {
-      "in_water": "2024-11-27 12:08:50 +0000"
+      "log_spam_fixer": "2024-11-27 16:48:05 +0000"
     },
-    "done": true
+    "done": false
   },
-  "farmersdelight:recipes/food/fried_egg": {
+  "incendium:technical/on_block": {
     "criteria": {
-      "fried_egg": "2024-11-27 12:43:48 +0000"
+      "log_spam_fixer": "2024-11-27 16:48:05 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 16:48:05 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 16:48:05 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 16:48:05 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 16:48:05 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 16:48:05 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 16:48:05 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 16:48:05 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2024-11-27 16:47:40 +0000"
     },
     "done": true
   },
