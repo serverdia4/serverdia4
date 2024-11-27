@@ -2785,3 +2785,9 @@ Caused by: java.lang.ClassCastException: class com.sk89q.worldedit.util.Directio
 [27Nov2024 16:40:33.541] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
 [27Nov2024 16:43:54.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [27Nov2024 16:43:54.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: e<--[HERE]
+[27Nov2024 17:00:10.598] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Draga'/3129, l='ServerLevel[world]', x=398.50, y=80.00, z=323.85] died, message: 'Draga was grilled to perfection'
+[27Nov2024 17:00:10.600] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Draga'/3129, l='ServerLevel[world]', x=398.50, y=80.00, z=323.85] died: Draga was grilled to perfection
+[27Nov2024 17:00:10.604] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
+[27Nov2024 17:00:10.613] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType
+[27Nov2024 17:03:37.755] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[27Nov2024 17:05:21.817] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting weather2/weathersystem/storm/WeatherObjectParticleStorm$StormType
