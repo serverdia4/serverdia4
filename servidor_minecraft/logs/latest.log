@@ -3458,3 +3458,9 @@ java.lang.IndexOutOfBoundsException: readerIndex(7) + length(1) exceeds writerIn
 [27Nov2024 17:36:29.399] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Larisa'/4267, l='ServerLevel[world]', x=394.69, y=61.43, z=250.57] died, message: 'Larisa drowned'
 [27Nov2024 17:36:29.401] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Larisa'/4267, l='ServerLevel[world]', x=394.69, y=61.43, z=250.57] died: Larisa drowned
 [27Nov2024 17:40:06.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [softfer: Killed all storms]
+[27Nov2024 17:42:21.849] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[27Nov2024 17:44:51.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [softfer: Set the time to 1000]
+[27Nov2024 17:44:51.604] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -109180 Ticks
+[27Nov2024 17:46:46.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [softfer: Set the time to 1000]
+[27Nov2024 17:46:46.903] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -2305 Ticks
+[27Nov2024 17:46:48.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [softfer: Killed all storms]
