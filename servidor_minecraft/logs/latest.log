@@ -3455,3 +3455,6 @@ java.lang.IndexOutOfBoundsException: readerIndex(7) + length(1) exceeds writerIn
   "[-112, 22, 0, 0, 0, 0, 0]"
 ]
 [27Nov2024 17:18:49.927] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export End: ------>
+[27Nov2024 17:36:29.399] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Larisa'/4267, l='ServerLevel[world]', x=394.69, y=61.43, z=250.57] died, message: 'Larisa drowned'
+[27Nov2024 17:36:29.401] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Larisa'/4267, l='ServerLevel[world]', x=394.69, y=61.43, z=250.57] died: Larisa drowned
+[27Nov2024 17:40:06.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [softfer: Killed all storms]
