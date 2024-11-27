@@ -1,0 +1,65 @@
+
+[server]
+
+	[server.ship]
+		#Unload-into-chest distance multiplier
+		#Range: 1 ~ 10
+		unloadIntoChestDistanceMultiplier = 3
+		#drillCanMineAxeBlocks
+		drillCanMineAxeBlocks = true
+		#drillCanMineShovelBlocks
+		drillCanMineShovelBlocks = true
+		#maxBuzzsawLeafDestroySize
+		#Range: 0 ~ 1000000
+		maxBuzzsawLeafDestroySize = 200
+		#autoKillAllEnemyProjectiles
+		autoKillAllEnemyProjectiles = false
+		#killProjectilesByCollision
+		killProjectilesByCollision = true
+		#buzzsawIgnorePersistentLeaves
+		buzzsawIgnorePersistentLeaves = true
+
+	[server.misc]
+		#Manipulator Tick Period
+		#Range: 5 ~ 1200
+		manipulatorTickPeriod = 10
+		#manipulatorArmHasNoCollision
+		manipulatorArmHasNoCollision = true
+		#snowBlockerBlockRadius
+		#Range: 1 ~ 1000000
+		snowBlockerBlockRadius = 500
+
+	[server.weapons]
+		#Bullets can headshot
+		bulletsCanHeadshot = true
+		#bulletDamage
+		#Range: 0.0 ~ 100.0
+		bulletDamage = 1.5
+		#bulletHeadshotDamageMultiplier
+		#Range: 1.0 ~ 10.0
+		bulletHeadshotDamageMultiplier = 1.2
+		#integratedGunDamageMultiplier
+		#Range: 0.0 ~ 10.0
+		integratedGunDamageMultiplier = 0.6
+		#Bullets can destroy blocks
+		bulletsCanDestroyBlocks = true
+		#bulletDestroyBlockSpeed
+		#Range: 0.0 ~ 10.0
+		bulletDestroyBlockSpeed = 0.3
+		#Bullets create bullet holes
+		bulletsCreateBulletHoles = true
+		#Bullet Hole Update Period
+		#Range: 1 ~ 40
+		bulletHoleUpdatePeriod = 3
+
+	[server.engines]
+		#furnaceBurnTimeMult
+		#Range: 0.0 ~ 10.0
+		furnaceBurnTimeMult = 1.0
+		#furnaceBurnTimeMaxSeconds
+		#Range: 0 ~ 999999
+		furnaceBurnTimeMaxSeconds = 800
+		#refinedOilBurnTimeMinutes
+		#Range: 0 ~ 999999
+		refinedOilBurnTimeMinutes = 10
+

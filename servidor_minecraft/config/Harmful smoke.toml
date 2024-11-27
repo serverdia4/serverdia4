@@ -1,0 +1,11 @@
+
+["Smoking effect"]
+	#By default it is False, if you switch to True, then smoking will have the Nausea effect, if not, with blindness, as usual.
+	Nausea = false
+
+["Growing Tobacco"]
+	#If the value is True, it can grow in any biome, with the default value False it can only grow in the savannah biome
+	"Grow in any biome" = false
+	#If the value is True, it can be fertilized in any biome, on the default value False the fertilizer will only work in the savanna (this setting is independent of the setting Grow in any biome)
+	"Fertilizer in any biomes" = false
+
