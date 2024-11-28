@@ -3051,3 +3051,322 @@ java.lang.RuntimeException: Slot 1 not in valid range - [0,1)
 [28Nov2024 11:06:44.616] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of softfer (18)
 [28Nov2024 11:06:44.618] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to softfer
 [28Nov2024 11:06:44.636] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Nov2024 11:07:02.665] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: softfer[/127.82.223.232:51337] logged in with entity id 722 at (305.64174738032466, 73.0625, 217.4464625197535)
+[28Nov2024 11:07:02.689] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to softfer
+[28Nov2024 11:07:02.689] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to softfer
+[28Nov2024 11:07:02.690] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to softfer
+[28Nov2024 11:07:02.690] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to softfer
+[28Nov2024 11:07:02.692] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to softfer
+[28Nov2024 11:07:02.695] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to softfer
+[28Nov2024 11:07:02.695] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to softfer
+[28Nov2024 11:07:02.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: softfer joined the game
+[28Nov2024 11:07:02.848] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Slot 1 not in valid range - [0,1)
+	Index: 36
+	Listeners:
+		0: HIGHEST
+		1: ASM: class de.markusbordihn.easynpc.entity.LivingEntityEventHandler handleEntityJoinWorldEvent(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		2: ASM: net.minecraftforge.common.ForgeInternalHandler@4fd84896 builtinMobSpawnBlocker(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		3: ASM: class com.minecolonies.core.event.EventHandler onEntityAdded(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		4: HIGH
+		5: ASM: net.minecraftforge.common.ForgeInternalHandler@4fd84896 onEntityJoinWorld(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		6: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		7: NORMAL
+		8: ASM: class com.legacy.structure_gel.core.events.SGCommonEvents$ForgeBus onEntityJoinLevel(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		9: ASM: class com.legacy.dungeons_plus.events.DPCommonEvents$ForgeBus onJoinLevel(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		10: ASM: class net.mcreator.bossominium.procedures.BossdexiumConfigProcedure onEntityJoin(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		11: ASM: class top.ribs.scguns.event.RaidEventHandler onRaidSpawn(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		12: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@3e0a3eff onJoinWorld(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		13: net.minecraftforge.eventbus.EventBus$$Lambda/0x000077ea1088d2d0@75850205
+		14: ASM: class net.mcreator.doppelgangermod.procedures.WanderinganimationtransformProcedure onEntitySpawned(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		15: ASM: class net.mcreator.doppelgangermod.procedures.PlaydpobsProcedure onEntitySpawned(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		16: ASM: class net.mcreator.doppelgangermod.procedures.DieinnetherProcedure onEntitySpawned(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		17: ASM: class net.mcreator.doppelgangermod.procedures.Config2Procedure onEntitySpawned(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		18: ASM: class com.legacy.blue_skies.events.SkiesEvents onEntityJoinWorld(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		19: ASM: class com.legacy.blue_skies.events.SkiesPlayerEvents onPlayerJoinWorld(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		20: ASM: class com.aetherteam.aether.event.listeners.capability.AetherPlayerListener onPlayerJoinLevel(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		21: ASM: class com.aetherteam.aether.event.listeners.EntityListener onEntityJoin(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		22: ASM: doggytalents.common.event.EventHandler@2c60be75 onEntitySpawn(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		23: ASM: class it.hurts.sskirillss.relics.items.relics.back.ArrowQuiverItem$Events onEntitySpawned(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		24: ASM: class com.github.alexthe666.rats.server.events.ForgeEvents onEntityJoinWorld(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		25: ASM: class com.github.alexthe666.iceandfire.entity.props.CapabilityHandler handleInitialSync(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		26: ASM: class vectorwing.farmersdelight.common.event.CommonEvents onAnimalsJoinWorld(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		27: ASM: class mod.gottsch.forge.treasure2.core.event.ItemEventHandler onEntityJoinWorld(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		28: net.minecraftforge.eventbus.EventBus$$Lambda/0x000077ea1088d2d0@54468750
+		29: ASM: class net.mehvahdjukaar.supplementaries.common.events.forge.ServerEventsForge onEntityJoin(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		30: ASM: class twilightforest.events.MiscEvents addPrey(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		31: ASM: com.mrcrayfish.framework.event.ForgeEvents@e43b32c onEntityJoinLevel(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		32: ASM: class com.legacy.conjurer_illager.IllagerEvents onEntityJoinWorld(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		33: ASM: class forge.net.mca.forge.ForgeBusEvents OnEntityJoinWorldEvent(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		34: ASM: class com.simibubi.create.foundation.events.CommonEvents onEntityAdded(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		35: ASM: class net.mcreator.zoe.procedures.TameableMobMaxImplantsStatApplyProcedure onEntitySpawned(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		36: ASM: class net.mcreator.zoe.procedures.ImplantAttributeRespawnGrantProcedure onEntitySpawned(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		37: ASM: class daripher.skilltree.capability.skill.PlayerSkillsProvider sendTreeResetMessage(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		38: ASM: class daripher.skilltree.capability.skill.PlayerSkillsProvider syncPlayerSkills(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		39: ASM: class net.mcreator.butcher.procedures.BrainAttractProcedure onEntitySpawned(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		40: ASM: toughasnails.temperature.TemperatureHandler@9e938c6 onPlayerSpawn(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		41: ASM: class team.lodestar.lodestone.events.RuntimeEvents entityJoin(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		42: ASM: class com.enderio.base.common.enchantment.XPBoostHandler handleArrowFire(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		43: ASM: class io.redspace.ironsspellbooks.effect.guiding_bolt.GuidingBoltManager onProjectileShot(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		44: ASM: top.theillusivec4.curios.common.event.CuriosEventHandler@215764f entityJoinWorld(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		45: ASM: net.smileycorp.hordes.infection.InfectionEventHandler@6b531d67 onEntityAdded(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		46: ASM: INSTANCE onEntityJoinWorld(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		47: ASM: com.natamus.collective.forge.events.RegisterCollectiveForgeEvents@1f3cac34 onEntityJoinLevel(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		48: LOWEST
+		49: ASM: class com.teamabnormals.upgrade_aquatic.core.other.UAEvents onEntitySpawned(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		50: ASM: class daripher.skilltree.capability.skill.PlayerSkillsProvider restoreSkillsAttributeModifiers(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+java.lang.RuntimeException: Slot 1 not in valid range - [0,1)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.items.ItemStackHandler.validateSlotIndex(ItemStackHandler.java:206)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.items.ItemStackHandler.getStackInSlot(ItemStackHandler.java:58)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.items.SlotItemHandler.m_7993_(SlotItemHandler.java:40)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.inventory.AbstractContainerMenu.m_38946_(AbstractContainerMenu.java:169)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.inventory.AbstractContainerMenu.m_38893_(AbstractContainerMenu.java:124)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_143399_(ServerPlayer.java:401)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.network.NetworkHooks.openScreen(NetworkHooks.java:212)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.network.NetworkHooks.openScreen(NetworkHooks.java:173)
+	at TRANSFORMER/zoe@1.3.1/net.mcreator.zoe.procedures.ImplantAttributeRespawnGrantProcedure.execute(ImplantAttributeRespawnGrantProcedure.java:43)
+	at TRANSFORMER/zoe@1.3.1/net.mcreator.zoe.procedures.ImplantAttributeRespawnGrantProcedure.onEntitySpawned(ImplantAttributeRespawnGrantProcedure.java:30)
+	at TRANSFORMER/zoe@1.3.1/net.mcreator.zoe.procedures.__ImplantAttributeRespawnGrantProcedure_onEntitySpawned_EntityJoinLevelEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerLevel.m_8853_(ServerLevel.java:842)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerLevel.m_8834_(ServerLevel.java:834)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.players.PlayerList.m_11261_(PlayerList.java:215)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerLoginPacketListenerImpl.m_143699_(ServerLoginPacketListenerImpl.java:139)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerLoginPacketListenerImpl.m_10055_(ServerLoginPacketListenerImpl.java:126)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerLoginPacketListenerImpl.redirect$clh000$fabric_networking_api_v1$handlePlayerJoin(ServerLoginPacketListenerImpl.java:563)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerLoginPacketListenerImpl.m_9933_(ServerLoginPacketListenerImpl.java:70)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(Connection.java:263)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[28Nov2024 11:07:02.851] [Server thread/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Couldn't place player in world
+java.lang.RuntimeException: Slot 1 not in valid range - [0,1)
+	at net.minecraftforge.items.ItemStackHandler.validateSlotIndex(ItemStackHandler.java:206) ~[forge-1.20.1-47.3.7-universal.jar%23496!/:?]
+	at net.minecraftforge.items.ItemStackHandler.getStackInSlot(ItemStackHandler.java:58) ~[forge-1.20.1-47.3.7-universal.jar%23496!/:?]
+	at net.minecraftforge.items.SlotItemHandler.m_7993_(SlotItemHandler.java:40) ~[forge-1.20.1-47.3.7-universal.jar%23496!/:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.m_38946_(AbstractContainerMenu.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.m_38893_(AbstractContainerMenu.java:124) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_143399_(ServerPlayer.java:401) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraftforge.network.NetworkHooks.openScreen(NetworkHooks.java:212) ~[forge-1.20.1-47.3.7-universal.jar%23496!/:?]
+	at net.minecraftforge.network.NetworkHooks.openScreen(NetworkHooks.java:173) ~[forge-1.20.1-47.3.7-universal.jar%23496!/:?]
+	at net.mcreator.zoe.procedures.ImplantAttributeRespawnGrantProcedure.execute(ImplantAttributeRespawnGrantProcedure.java:43) ~[zoe_1.3.1-1.20.1.jar%23489!/:?]
+	at net.mcreator.zoe.procedures.ImplantAttributeRespawnGrantProcedure.onEntitySpawned(ImplantAttributeRespawnGrantProcedure.java:30) ~[zoe_1.3.1-1.20.1.jar%23489!/:?]
+	at net.mcreator.zoe.procedures.__ImplantAttributeRespawnGrantProcedure_onEntitySpawned_EntityJoinLevelEvent.invoke(.dynamic) ~[zoe_1.3.1-1.20.1.jar%23489!/:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8853_(ServerLevel.java:842) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8834_(ServerLevel.java:834) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.server.players.PlayerList.m_11261_(PlayerList.java:215) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.m_143699_(ServerLoginPacketListenerImpl.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.m_10055_(ServerLoginPacketListenerImpl.java:126) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.redirect$clh000$fabric_networking_api_v1$handlePlayerJoin(ServerLoginPacketListenerImpl.java:563) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.m_9933_(ServerLoginPacketListenerImpl.java:70) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[28Nov2024 11:07:03.242] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: softfer lost connection: Invalid player data
+[28Nov2024 11:07:03.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: softfer left the game
+[28Nov2024 11:07:03.244] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client softfer
+[28Nov2024 11:07:03.253] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of softfer (18)
+[28Nov2024 11:07:03.254] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to softfer
+[28Nov2024 11:07:03.256] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Nov2024 11:08:12.070] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: softfer[/127.82.223.232:53039] logged in with entity id 723 at (305.64174738032466, 73.0625, 217.4464625197535)
+[28Nov2024 11:08:12.099] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to softfer
+[28Nov2024 11:08:12.100] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to softfer
+[28Nov2024 11:08:12.101] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to softfer
+[28Nov2024 11:08:12.102] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to softfer
+[28Nov2024 11:08:12.106] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to softfer
+[28Nov2024 11:08:12.116] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to softfer
+[28Nov2024 11:08:12.117] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to softfer
+[28Nov2024 11:08:12.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: softfer joined the game
+[28Nov2024 11:08:12.231] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Slot 1 not in valid range - [0,1)
+	Index: 36
+	Listeners:
+		0: HIGHEST
+		1: ASM: class de.markusbordihn.easynpc.entity.LivingEntityEventHandler handleEntityJoinWorldEvent(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		2: ASM: net.minecraftforge.common.ForgeInternalHandler@4fd84896 builtinMobSpawnBlocker(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		3: ASM: class com.minecolonies.core.event.EventHandler onEntityAdded(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		4: HIGH
+		5: ASM: net.minecraftforge.common.ForgeInternalHandler@4fd84896 onEntityJoinWorld(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		6: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		7: NORMAL
+		8: ASM: class com.legacy.structure_gel.core.events.SGCommonEvents$ForgeBus onEntityJoinLevel(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		9: ASM: class com.legacy.dungeons_plus.events.DPCommonEvents$ForgeBus onJoinLevel(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		10: ASM: class net.mcreator.bossominium.procedures.BossdexiumConfigProcedure onEntityJoin(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		11: ASM: class top.ribs.scguns.event.RaidEventHandler onRaidSpawn(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		12: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@3e0a3eff onJoinWorld(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		13: net.minecraftforge.eventbus.EventBus$$Lambda/0x000077ea1088d2d0@75850205
+		14: ASM: class net.mcreator.doppelgangermod.procedures.WanderinganimationtransformProcedure onEntitySpawned(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		15: ASM: class net.mcreator.doppelgangermod.procedures.PlaydpobsProcedure onEntitySpawned(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		16: ASM: class net.mcreator.doppelgangermod.procedures.DieinnetherProcedure onEntitySpawned(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		17: ASM: class net.mcreator.doppelgangermod.procedures.Config2Procedure onEntitySpawned(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		18: ASM: class com.legacy.blue_skies.events.SkiesEvents onEntityJoinWorld(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		19: ASM: class com.legacy.blue_skies.events.SkiesPlayerEvents onPlayerJoinWorld(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		20: ASM: class com.aetherteam.aether.event.listeners.capability.AetherPlayerListener onPlayerJoinLevel(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		21: ASM: class com.aetherteam.aether.event.listeners.EntityListener onEntityJoin(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		22: ASM: doggytalents.common.event.EventHandler@2c60be75 onEntitySpawn(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		23: ASM: class it.hurts.sskirillss.relics.items.relics.back.ArrowQuiverItem$Events onEntitySpawned(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		24: ASM: class com.github.alexthe666.rats.server.events.ForgeEvents onEntityJoinWorld(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		25: ASM: class com.github.alexthe666.iceandfire.entity.props.CapabilityHandler handleInitialSync(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		26: ASM: class vectorwing.farmersdelight.common.event.CommonEvents onAnimalsJoinWorld(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		27: ASM: class mod.gottsch.forge.treasure2.core.event.ItemEventHandler onEntityJoinWorld(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		28: net.minecraftforge.eventbus.EventBus$$Lambda/0x000077ea1088d2d0@54468750
+		29: ASM: class net.mehvahdjukaar.supplementaries.common.events.forge.ServerEventsForge onEntityJoin(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		30: ASM: class twilightforest.events.MiscEvents addPrey(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		31: ASM: com.mrcrayfish.framework.event.ForgeEvents@e43b32c onEntityJoinLevel(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		32: ASM: class com.legacy.conjurer_illager.IllagerEvents onEntityJoinWorld(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		33: ASM: class forge.net.mca.forge.ForgeBusEvents OnEntityJoinWorldEvent(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		34: ASM: class com.simibubi.create.foundation.events.CommonEvents onEntityAdded(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		35: ASM: class net.mcreator.zoe.procedures.TameableMobMaxImplantsStatApplyProcedure onEntitySpawned(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		36: ASM: class net.mcreator.zoe.procedures.ImplantAttributeRespawnGrantProcedure onEntitySpawned(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		37: ASM: class daripher.skilltree.capability.skill.PlayerSkillsProvider sendTreeResetMessage(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		38: ASM: class daripher.skilltree.capability.skill.PlayerSkillsProvider syncPlayerSkills(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		39: ASM: class net.mcreator.butcher.procedures.BrainAttractProcedure onEntitySpawned(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		40: ASM: toughasnails.temperature.TemperatureHandler@9e938c6 onPlayerSpawn(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		41: ASM: class team.lodestar.lodestone.events.RuntimeEvents entityJoin(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		42: ASM: class com.enderio.base.common.enchantment.XPBoostHandler handleArrowFire(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		43: ASM: class io.redspace.ironsspellbooks.effect.guiding_bolt.GuidingBoltManager onProjectileShot(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		44: ASM: top.theillusivec4.curios.common.event.CuriosEventHandler@215764f entityJoinWorld(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		45: ASM: net.smileycorp.hordes.infection.InfectionEventHandler@6b531d67 onEntityAdded(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		46: ASM: INSTANCE onEntityJoinWorld(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		47: ASM: com.natamus.collective.forge.events.RegisterCollectiveForgeEvents@1f3cac34 onEntityJoinLevel(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		48: LOWEST
+		49: ASM: class com.teamabnormals.upgrade_aquatic.core.other.UAEvents onEntitySpawned(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+		50: ASM: class daripher.skilltree.capability.skill.PlayerSkillsProvider restoreSkillsAttributeModifiers(Lnet/minecraftforge/event/entity/EntityJoinLevelEvent;)V
+java.lang.RuntimeException: Slot 1 not in valid range - [0,1)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.items.ItemStackHandler.validateSlotIndex(ItemStackHandler.java:206)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.items.ItemStackHandler.getStackInSlot(ItemStackHandler.java:58)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.items.SlotItemHandler.m_7993_(SlotItemHandler.java:40)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.inventory.AbstractContainerMenu.m_38946_(AbstractContainerMenu.java:169)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.inventory.AbstractContainerMenu.m_38893_(AbstractContainerMenu.java:124)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_143399_(ServerPlayer.java:401)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.network.NetworkHooks.openScreen(NetworkHooks.java:212)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.network.NetworkHooks.openScreen(NetworkHooks.java:173)
+	at TRANSFORMER/zoe@1.3.1/net.mcreator.zoe.procedures.ImplantAttributeRespawnGrantProcedure.execute(ImplantAttributeRespawnGrantProcedure.java:43)
+	at TRANSFORMER/zoe@1.3.1/net.mcreator.zoe.procedures.ImplantAttributeRespawnGrantProcedure.onEntitySpawned(ImplantAttributeRespawnGrantProcedure.java:30)
+	at TRANSFORMER/zoe@1.3.1/net.mcreator.zoe.procedures.__ImplantAttributeRespawnGrantProcedure_onEntitySpawned_EntityJoinLevelEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerLevel.m_8853_(ServerLevel.java:842)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerLevel.m_8834_(ServerLevel.java:834)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.players.PlayerList.m_11261_(PlayerList.java:215)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerLoginPacketListenerImpl.m_143699_(ServerLoginPacketListenerImpl.java:139)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerLoginPacketListenerImpl.m_10055_(ServerLoginPacketListenerImpl.java:126)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerLoginPacketListenerImpl.redirect$clh000$fabric_networking_api_v1$handlePlayerJoin(ServerLoginPacketListenerImpl.java:563)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerLoginPacketListenerImpl.m_9933_(ServerLoginPacketListenerImpl.java:70)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(Connection.java:263)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[28Nov2024 11:08:12.232] [Server thread/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Couldn't place player in world
+java.lang.RuntimeException: Slot 1 not in valid range - [0,1)
+	at net.minecraftforge.items.ItemStackHandler.validateSlotIndex(ItemStackHandler.java:206) ~[forge-1.20.1-47.3.7-universal.jar%23496!/:?]
+	at net.minecraftforge.items.ItemStackHandler.getStackInSlot(ItemStackHandler.java:58) ~[forge-1.20.1-47.3.7-universal.jar%23496!/:?]
+	at net.minecraftforge.items.SlotItemHandler.m_7993_(SlotItemHandler.java:40) ~[forge-1.20.1-47.3.7-universal.jar%23496!/:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.m_38946_(AbstractContainerMenu.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.m_38893_(AbstractContainerMenu.java:124) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_143399_(ServerPlayer.java:401) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraftforge.network.NetworkHooks.openScreen(NetworkHooks.java:212) ~[forge-1.20.1-47.3.7-universal.jar%23496!/:?]
+	at net.minecraftforge.network.NetworkHooks.openScreen(NetworkHooks.java:173) ~[forge-1.20.1-47.3.7-universal.jar%23496!/:?]
+	at net.mcreator.zoe.procedures.ImplantAttributeRespawnGrantProcedure.execute(ImplantAttributeRespawnGrantProcedure.java:43) ~[zoe_1.3.1-1.20.1.jar%23489!/:?]
+	at net.mcreator.zoe.procedures.ImplantAttributeRespawnGrantProcedure.onEntitySpawned(ImplantAttributeRespawnGrantProcedure.java:30) ~[zoe_1.3.1-1.20.1.jar%23489!/:?]
+	at net.mcreator.zoe.procedures.__ImplantAttributeRespawnGrantProcedure_onEntitySpawned_EntityJoinLevelEvent.invoke(.dynamic) ~[zoe_1.3.1-1.20.1.jar%23489!/:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8853_(ServerLevel.java:842) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8834_(ServerLevel.java:834) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.server.players.PlayerList.m_11261_(PlayerList.java:215) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.m_143699_(ServerLoginPacketListenerImpl.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.m_10055_(ServerLoginPacketListenerImpl.java:126) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.redirect$clh000$fabric_networking_api_v1$handlePlayerJoin(ServerLoginPacketListenerImpl.java:563) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.m_9933_(ServerLoginPacketListenerImpl.java:70) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[28Nov2024 11:08:12.624] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: softfer lost connection: Invalid player data
+[28Nov2024 11:08:12.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: softfer left the game
+[28Nov2024 11:08:12.625] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client softfer
+[28Nov2024 11:08:12.634] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Nov2024 11:08:44.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[28Nov2024 11:08:44.587] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Stopping train listener...
+[28Nov2024 11:08:44.587] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Stopping Advanced Display Data Manager...
+[28Nov2024 11:08:44.588] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All events have been closed.
+[28Nov2024 11:08:44.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Nov2024 11:08:44.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Nov2024 11:08:44.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Nov2024 11:08:44.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[28Nov2024 11:08:44.746] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/ai/NightwatcherRobGoal$Task
+[28Nov2024 11:08:44.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[28Nov2024 11:08:44.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[28Nov2024 11:08:44.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[28Nov2024 11:08:44.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/createteleporters:pocket_dimension
+[28Nov2024 11:08:44.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[28Nov2024 11:08:44.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[28Nov2024 11:08:44.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[28Nov2024 11:08:44.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[28Nov2024 11:08:44.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[28Nov2024 11:08:44.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[28Nov2024 11:08:44.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[28Nov2024 11:08:44.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[28Nov2024 11:08:44.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[28Nov2024 11:08:44.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[28Nov2024 11:08:44.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[28Nov2024 11:08:44.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[28Nov2024 11:08:44.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[28Nov2024 11:08:44.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[28Nov2024 11:08:44.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[28Nov2024 11:08:44.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[28Nov2024 11:08:44.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[28Nov2024 11:08:45.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28Nov2024 11:08:45.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[28Nov2024 11:08:45.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Nov2024 11:08:45.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[28Nov2024 11:08:45.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
+[28Nov2024 11:08:45.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[28Nov2024 11:08:45.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[28Nov2024 11:08:45.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[28Nov2024 11:08:45.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[28Nov2024 11:08:45.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[28Nov2024 11:08:45.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Nov2024 11:08:45.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[28Nov2024 11:08:45.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[28Nov2024 11:08:45.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[28Nov2024 11:08:45.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[28Nov2024 11:08:45.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[28Nov2024 11:08:45.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[28Nov2024 11:08:45.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[28Nov2024 11:08:45.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[28Nov2024 11:08:45.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[28Nov2024 11:08:45.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[28Nov2024 11:08:45.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[28Nov2024 11:08:45.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[28Nov2024 11:08:45.220] [Advanced Display Data Manager/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Advanced Display Data Manager has been stopped.
+[28Nov2024 11:08:45.280] [CRN Train Listener/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Train listener has been stopped.
+[28Nov2024 11:08:45.419] [Server thread/INFO] [Framework/]: Unloading server configs...
+[28Nov2024 11:08:45.420] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[28Nov2024 11:08:45.423] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[28Nov2024 11:08:45.423] [Server thread/INFO] [Framework/]: Finished unloading server configs
