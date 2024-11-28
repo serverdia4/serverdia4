@@ -2088,73 +2088,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 13:29:26 +0000"
+      "log_spam_fixer": "2024-11-28 13:49:26 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 13:29:26 +0000"
+      "log_spam_fixer": "2024-11-28 13:49:26 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 13:29:26 +0000"
+      "log_spam_fixer": "2024-11-28 13:49:26 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 13:29:26 +0000"
+      "log_spam_fixer": "2024-11-28 13:49:26 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 13:29:26 +0000"
+      "log_spam_fixer": "2024-11-28 13:49:26 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 13:29:26 +0000"
+      "log_spam_fixer": "2024-11-28 13:49:26 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 13:29:26 +0000"
+      "log_spam_fixer": "2024-11-28 13:49:26 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 13:29:26 +0000"
+      "log_spam_fixer": "2024-11-28 13:49:26 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 13:29:26 +0000"
+      "log_spam_fixer": "2024-11-28 13:49:26 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 13:29:26 +0000"
+      "log_spam_fixer": "2024-11-28 13:49:26 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 13:29:26 +0000"
+      "log_spam_fixer": "2024-11-28 13:49:26 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 13:29:26 +0000"
+      "log_spam_fixer": "2024-11-28 13:49:26 +0000"
     },
     "done": false
   },
@@ -2368,6 +2368,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/warrior_upgrade": {
+    "criteria": {
+      "has_block": "2024-11-28 13:34:08 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/gray_kitchen_sink": {
     "criteria": {
       "has_wooden_kitchen_sinks": "2024-11-28 12:29:43 +0000"
@@ -2542,6 +2548,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/jury_rigged_upgrade": {
+    "criteria": {
+      "has_diamond": "2024-11-28 13:34:08 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2024-11-28 12:56:42 +0000"
@@ -2599,6 +2611,12 @@
   "iceandfire:recipes/misc/dragon_meal": {
     "criteria": {
       "has_item": "2024-11-28 12:26:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2024-11-28 13:34:08 +0000"
     },
     "done": true
   },

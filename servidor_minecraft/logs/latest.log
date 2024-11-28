@@ -23095,3 +23095,48 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 1 out of bounds for length
 [28Nov2024 13:29:22.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [softfer: Killed all storms]
 [28Nov2024 13:30:45.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [softfer: Set the time to 1000]
 [28Nov2024 13:30:45.149] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -12943 Ticks
+[28Nov2024 13:34:38.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [softfer: Set the world spawn point to 304, 72, 284 [0.0]]
+[28Nov2024 13:34:43.534] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Boro'/1698, l='ServerLevel[world]', x=348.17, y=73.00, z=298.50] died, message: 'Boro was grilled to perfection'
+[28Nov2024 13:34:43.535] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Boro'/1698, l='ServerLevel[world]', x=348.17, y=73.00, z=298.50] died: Boro was grilled to perfection
+[28Nov2024 13:34:57.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [softfer: Gamerule spawnRadius is now set to: 0]
+[28Nov2024 13:35:15.300] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[28Nov2024 13:35:15.301] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[28Nov2024 13:35:15.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: softfer died
+[28Nov2024 13:35:15.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [softfer: Killed softfer]
+[28Nov2024 13:35:17.691] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[28Nov2024 13:35:28.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: softfer died
+[28Nov2024 13:35:28.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [softfer: Killed softfer]
+[28Nov2024 13:35:57.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[28Nov2024 13:35:57.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: e<--[HERE]
+[28Nov2024 13:42:51.433] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Zora'/1679, l='ServerLevel[world]', x=348.14, y=73.00, z=298.50] died, message: 'Zora was grilled to perfection'
+[28Nov2024 13:42:51.435] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Zora'/1679, l='ServerLevel[world]', x=348.14, y=73.00, z=298.50] died: Zora was grilled to perfection
+[28Nov2024 13:44:55.097] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@59e28582]Trying to start horde event on day 20 with nextDay 20 and time 18000
+[28Nov2024 13:44:55.101] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@1ac37f5b
+[28Nov2024 13:44:55.104] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[28Nov2024 13:44:55.105] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[28Nov2024 13:44:55.180] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[28Nov2024 13:44:55.181] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[28Nov2024 13:44:55.182] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[28Nov2024 13:44:55.183] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[28Nov2024 13:45:45.137] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[28Nov2024 13:45:45.137] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[28Nov2024 13:45:45.137] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[28Nov2024 13:45:45.138] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[28Nov2024 13:46:35.143] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[28Nov2024 13:46:35.143] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[28Nov2024 13:46:35.143] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[28Nov2024 13:46:35.143] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[28Nov2024 13:47:25.148] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[28Nov2024 13:47:25.149] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[28Nov2024 13:47:25.149] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[28Nov2024 13:47:25.149] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[28Nov2024 13:48:15.137] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[28Nov2024 13:48:15.138] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[28Nov2024 13:48:15.138] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[28Nov2024 13:48:15.138] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[28Nov2024 13:49:05.136] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[28Nov2024 13:49:05.136] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[28Nov2024 13:49:05.136] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[28Nov2024 13:49:05.137] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[28Nov2024 13:50:56.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[28Nov2024 13:50:56.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: e<--[HERE]
