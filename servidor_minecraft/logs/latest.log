@@ -12961,3 +12961,16 @@ java.lang.IndexOutOfBoundsException: readerIndex(7) + length(1) exceeds writerIn
 [28Nov2024 02:56:07.348] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Milčo'/614, l='ServerLevel[world]', x=386.28, y=73.00, z=266.32] died, message: 'Milčo was grilled to perfection'
 [28Nov2024 02:56:07.349] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Milčo'/614, l='ServerLevel[world]', x=386.28, y=73.00, z=266.32] died: Milčo was grilled to perfection
 [28Nov2024 02:56:58.384] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Aco'/12205, l='ServerLevel[world]', x=273.67, y=60.00, z=283.30] died, message: 'Aco drowned'
+[28Nov2024 02:59:48.649] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Stole}[style={}] has been infected
+[28Nov2024 02:59:49.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [softfer: Set the time to 1000]
+[28Nov2024 02:59:49.311] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -10963 Ticks
+[28Nov2024 02:59:52.246] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Stole}[style={}] has been infected
+[28Nov2024 03:00:30.500] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Stole'/588, l='ServerLevel[world]', x=251.49, y=72.00, z=245.55] died, message: 'Stole was slain by Milanka'
+[28Nov2024 03:00:30.501] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Stole'/588, l='ServerLevel[world]', x=251.49, y=72.00, z=245.55] died: Stole was slain by Milanka
+[28Nov2024 03:00:55.300] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/650, l='ServerLevel[world]', x=254.68, y=72.00, z=258.20] died, message: 'Farmer was slain by Milanka'
+[28Nov2024 03:00:55.309] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[28Nov2024 03:00:55.309] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[28Nov2024 03:01:36.653] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/627, l='ServerLevel[world]', x=258.49, y=76.00, z=216.02] died, message: 'Leatherworker was slain by Milanka'
+[28Nov2024 03:01:36.662] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[28Nov2024 03:01:36.662] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[28Nov2024 03:02:27.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [softfer: Killed all storms]
