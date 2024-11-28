@@ -2658,79 +2658,85 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 20:13:04 +0000"
+      "log_spam_fixer": "2024-11-28 21:03:04 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 20:13:04 +0000"
+      "log_spam_fixer": "2024-11-28 21:03:04 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 20:13:04 +0000"
+      "log_spam_fixer": "2024-11-28 21:03:04 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 20:13:04 +0000"
+      "log_spam_fixer": "2024-11-28 21:03:04 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 20:13:04 +0000"
+      "log_spam_fixer": "2024-11-28 21:03:04 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 20:13:04 +0000"
+      "log_spam_fixer": "2024-11-28 21:03:04 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 20:13:04 +0000"
+      "log_spam_fixer": "2024-11-28 21:03:04 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 20:13:04 +0000"
+      "log_spam_fixer": "2024-11-28 21:03:04 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 20:13:04 +0000"
+      "log_spam_fixer": "2024-11-28 21:03:04 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 20:13:04 +0000"
+      "log_spam_fixer": "2024-11-28 21:03:04 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 20:13:04 +0000"
+      "log_spam_fixer": "2024-11-28 21:03:04 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 20:13:04 +0000"
+      "log_spam_fixer": "2024-11-28 21:03:04 +0000"
     },
     "done": false
   },
   "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-11-28 19:40:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-11-28 20:38:26 +0000"
     },
     "done": true
   },
@@ -2773,6 +2779,18 @@
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-11-28 19:40:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-11-28 20:34:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-11-28 20:34:38 +0000"
     },
     "done": true
   },
@@ -2836,6 +2854,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-11-28 20:34:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2024-11-28 19:34:05 +0000"
@@ -2863,6 +2887,18 @@
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2024-11-28 19:34:05 +0000"
+    },
+    "done": true
+  },
+  "exposure:recipes/tools/black_and_white_film": {
+    "criteria": {
+      "has_camera": "2024-11-28 20:45:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-11-28 20:34:38 +0000"
     },
     "done": true
   },
@@ -2923,6 +2959,12 @@
   "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-11-28 19:40:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2024-11-28 20:35:52 +0000"
     },
     "done": true
   },
@@ -3010,6 +3052,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-11-28 20:34:38 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/rat_quarry": {
+    "criteria": {
+      "has_diamond": "2024-11-28 20:34:38 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/ore_doubling_upgrade": {
+    "criteria": {
+      "has_diamond": "2024-11-28 20:34:38 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/hourglass": {
     "criteria": {
       "has_gold_ingot": "2024-11-28 19:34:05 +0000"
@@ -3031,6 +3091,12 @@
   "refurbished_furniture:recipes/misc/constructing/warped_storage_jar": {
     "criteria": {
       "has_glass": "2024-11-28 19:40:50 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/speed_upgrade": {
+    "criteria": {
+      "has_redstone": "2024-11-28 20:35:52 +0000"
     },
     "done": true
   },
@@ -3106,6 +3172,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/pickpocket_upgrade": {
+    "criteria": {
+      "has_emerald_block": "2024-11-28 20:38:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/blue_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2024-11-28 19:30:17 +0000"
@@ -3127,6 +3199,12 @@
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-11-28 19:40:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-11-28 20:35:52 +0000"
     },
     "done": true
   },
@@ -3169,6 +3247,12 @@
   "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass": {
     "criteria": {
       "has_glass": "2024-11-28 19:40:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-11-28 20:34:38 +0000"
     },
     "done": true
   },
@@ -3346,6 +3430,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-11-28 20:34:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-11-28 19:40:50 +0000"
@@ -3388,6 +3478,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_redstone_block": "2024-11-28 20:35:52 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-11-28 19:40:50 +0000"
@@ -3409,6 +3505,12 @@
   "refurbished_furniture:recipes/misc/constructing/mangrove_storage_jar": {
     "criteria": {
       "has_glass": "2024-11-28 19:40:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-11-28 20:34:38 +0000"
     },
     "done": true
   },
@@ -3436,6 +3538,18 @@
     },
     "done": true
   },
+  "skilltree:recipes/combat/diamond_quiver": {
+    "criteria": {
+      "has_gems_diamond": "2024-11-28 20:34:38 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/tick_accelerator_upgrade": {
+    "criteria": {
+      "has_lapis": "2024-11-28 20:38:02 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_medium_pot": {
     "criteria": {
       "has_golden_medium_pot": "2024-11-28 19:32:28 +0000"
@@ -3451,6 +3565,12 @@
   "vinery:recipes/vinemaker_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-11-28 19:34:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-11-28 20:34:38 +0000"
     },
     "done": true
   },
@@ -3484,6 +3604,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_gloves": {
+    "criteria": {
+      "has_diamond": "2024-11-28 20:34:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_green_stained_glass": {
     "criteria": {
       "has_glass": "2024-11-28 19:40:50 +0000"
@@ -3508,6 +3634,18 @@
     },
     "done": true
   },
+  "rats:recipes/misc/purifying_liquid": {
+    "criteria": {
+      "has_diamond": "2024-11-28 20:34:38 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/dj_upgrade": {
+    "criteria": {
+      "has_diamond": "2024-11-28 20:34:38 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/idol_upgrade": {
     "criteria": {
       "has_gold": "2024-11-28 19:32:28 +0000"
@@ -3520,9 +3658,33 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/big_bucket_upgrade": {
+    "criteria": {
+      "has_diamond": "2024-11-28 20:34:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-11-28 20:34:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2024-11-28 20:34:38 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/golden_rat_skull": {
     "criteria": {
       "has_gold": "2024-11-28 19:34:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-11-28 20:34:38 +0000"
     },
     "done": true
   },
@@ -3547,6 +3709,12 @@
   "handcrafted:recipes/misc/golden_thick_pot": {
     "criteria": {
       "has_golden_thick_pot": "2024-11-28 19:32:28 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_jukebox": {
+    "criteria": {
+      "has_diamond": "2024-11-28 20:34:38 +0000"
     },
     "done": true
   },
@@ -3634,6 +3802,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2024-11-28 20:38:02 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_gloves": {
     "criteria": {
       "has_gold": "2024-11-28 19:34:05 +0000"
@@ -3682,6 +3856,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-11-28 20:34:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/pink_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2024-11-28 19:30:17 +0000"
@@ -3691,6 +3871,12 @@
   "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2024-11-28 19:40:50 +0000"
+    },
+    "done": true
+  },
+  "exposure:recipes/tools/color_film": {
+    "criteria": {
+      "has_camera": "2024-11-28 20:45:43 +0000"
     },
     "done": true
   },
