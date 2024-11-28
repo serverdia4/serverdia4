@@ -2086,77 +2086,41 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "farmersdelight:main/place_feast": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 14:56:26 +0000"
+      "stuffed_pumpkin": "2024-11-28 12:23:54 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "farmersdelight:main/place_cooking_pot": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 14:56:26 +0000"
+      "cooking_pot": "2024-11-28 12:24:54 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "farmersdelight:main/place_skillet": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 14:56:26 +0000"
+      "skillet": "2024-11-28 12:24:56 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "farmersdelight:recipes/food/rice_from_bag": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 14:56:26 +0000"
+      "has_rice_bag": "2024-11-28 12:25:07 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "farmersdelight:recipes/food/hamburger": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 14:56:26 +0000"
+      "has_beef_patty": "2024-11-28 12:26:20 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "iceandfire:recipes/misc/dragon_meal": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 14:56:26 +0000"
+      "has_item": "2024-11-28 12:26:20 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-28 14:56:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-28 14:56:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-28 14:56:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-28 14:56:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-28 14:56:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-28 14:56:26 +0000"
-    },
-    "done": false
+    "done": true
   },
   "refurbished_furniture:recipes/misc/constructing/black_kitchen_sink": {
     "criteria": {
@@ -2170,105 +2134,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
-    "criteria": {
-      "has_vine": "2024-11-28 12:52:41 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/white_kitchen_sink": {
     "criteria": {
       "has_wooden_kitchen_sinks": "2024-11-28 12:29:43 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/dark_microwave": {
-    "criteria": {
-      "has_microwave": "2024-11-28 13:12:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2024-11-28 12:52:13 +0000"
-    },
-    "done": true
-  },
-  "upgrade_aquatic:recipes/food/cooked_lionfish": {
-    "criteria": {
-      "has_lionfish": "2024-11-28 12:30:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2024-11-28 12:46:24 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2024-11-28 12:53:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
-    "criteria": {
-      "has_vine": "2024-11-28 12:52:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2024-11-28 12:52:14 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2024-11-28 12:52:13 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
-    "criteria": {
-      "has_oxeye_daisy": "2024-11-28 12:52:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2024-11-28 12:46:24 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/bouquet": {
-    "criteria": {
-      "has_item": "2024-11-28 12:52:13 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/sweet_berry_cookie": {
-    "criteria": {
-      "has_sweet_berries": "2024-11-28 12:52:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_oak_wood": {
-    "criteria": {
-      "has_log": "2024-11-28 12:46:24 +0000"
-    },
-    "done": true
-  },
-  "rats:plague_doctor": {
-    "criteria": {
-      "meet_doctor": "2024-11-28 13:20:11 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/fancy_painting": {
-    "criteria": {
-      "has_fancy_painting": "2024-11-28 12:42:24 +0000"
     },
     "done": true
   },
@@ -2278,57 +2146,9 @@
     },
     "done": true
   },
-  "doggytalents:recipes/food/super_treat": {
-    "criteria": {
-      "has_golden_apple": "2024-11-28 13:53:18 +0000"
-    },
-    "done": true
-  },
-  "nameless_trinkets:obtain/root": {
-    "criteria": {
-      "obtain": "2024-11-28 12:39:46 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/orange_kitchen_sink": {
     "criteria": {
       "has_wooden_kitchen_sinks": "2024-11-28 12:29:43 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_microwave": {
-    "criteria": {
-      "has_light_microwave": "2024-11-28 13:12:49 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/dog_food": {
-    "criteria": {
-      "has_any_ingredient": "2024-11-28 13:20:21 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_cooking_pot": {
-    "criteria": {
-      "cooking_pot": "2024-11-28 12:24:54 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vine": {
-    "criteria": {
-      "has_vine": "2024-11-28 12:52:41 +0000"
-    },
-    "done": true
-  },
-  "beautify:hanging_pot": {
-    "criteria": {
-      "requirement": "2024-11-28 12:46:00 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_skillet": {
-    "criteria": {
-      "skillet": "2024-11-28 12:24:56 +0000"
     },
     "done": true
   },
@@ -2338,39 +2158,9 @@
     },
     "done": true
   },
-  "rats:recipes/misc/upgrades/crossbow_upgrade": {
-    "criteria": {
-      "has_bow": "2024-11-28 13:53:31 +0000"
-    },
-    "done": true
-  },
-  "beautify:progression/bookstack": {
-    "criteria": {
-      "obtain": "2024-11-28 12:49:31 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
-    "criteria": {
-      "has_gold_backpack": "2024-11-28 12:33:41 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/red_kitchen_sink": {
     "criteria": {
       "has_wooden_kitchen_sinks": "2024-11-28 12:29:43 +0000"
-    },
-    "done": true
-  },
-  "beautify:progression/light": {
-    "criteria": {
-      "obtain": "2024-11-28 12:49:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2024-11-28 12:53:49 +0000"
     },
     "done": true
   },
@@ -2380,135 +2170,9 @@
     },
     "done": true
   },
-  "rats:recipes/misc/upgrades/bow_upgrade": {
-    "criteria": {
-      "has_arrow": "2024-11-28 13:53:32 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/warrior_upgrade": {
-    "criteria": {
-      "has_block": "2024-11-28 13:34:08 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/gray_kitchen_sink": {
     "criteria": {
       "has_wooden_kitchen_sinks": "2024-11-28 12:29:43 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/food/herb_bundle": {
-    "criteria": {
-      "has_flower": "2024-11-28 12:52:13 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/aquatic_upgrade": {
-    "criteria": {
-      "has_feesh": "2024-11-28 12:30:17 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/chef_upgrade": {
-    "criteria": {
-      "has_apple": "2024-11-28 13:53:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
-    "criteria": {
-      "has_allium": "2024-11-28 12:54:00 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/building_blocks/fish_barrel": {
-    "criteria": {
-      "has_fish": "2024-11-28 12:30:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2024-11-28 12:30:31 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/undead_upgrade": {
-    "criteria": {
-      "has_flesh": "2024-11-28 13:20:21 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/fisherman_upgrade": {
-    "criteria": {
-      "has_fish": "2024-11-28 12:30:17 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
-    "criteria": {
-      "has_rotten_flesh": "2024-11-28 13:20:21 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/frying/sweet_berry_jam": {
-    "criteria": {
-      "has_ingredient": "2024-11-28 12:52:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/skull_banner_pattern": {
-    "criteria": {
-      "has_wither_skeleton_skull": "2024-11-28 12:30:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2024-11-28 12:30:09 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
-    "criteria": {
-      "has_backpack": "2024-11-28 12:33:43 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
-    "criteria": {
-      "has_rotten_flesh": "2024-11-28 13:20:21 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_sweet_berries": {
-    "criteria": {
-      "has_sweet_berries": "2024-11-28 12:52:05 +0000"
-    },
-    "done": true
-  },
-  "upgrade_aquatic:recipes/food/cooked_lionfish_from_smoking": {
-    "criteria": {
-      "has_lionfish": "2024-11-28 12:30:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2024-11-28 12:56:42 +0000"
-    },
-    "done": true
-  },
-  "beautify:progression/rope": {
-    "criteria": {
-      "obtain": "2024-11-28 12:46:00 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/berry_jam_jar": {
-    "criteria": {
-      "has_berry_jam_jar": "2024-11-28 12:52:05 +0000"
     },
     "done": true
   },
@@ -2518,87 +2182,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_allium": {
-    "criteria": {
-      "has_allium": "2024-11-28 12:54:00 +0000"
-    },
-    "done": true
-  },
-  "domum_ornamentum:recipes/tools/architectscutter": {
-    "criteria": {
-      "has_log": "2024-11-28 12:46:24 +0000"
-    },
-    "done": true
-  },
-  "chipped:recipes/carpenters_table": {
-    "criteria": {
-      "has_carpenters_table": "2024-11-28 13:14:44 +0000"
-    },
-    "done": true
-  },
-  "nameless_trinkets:obtain/gods_crown": {
-    "criteria": {
-      "gods_crown": "2024-11-28 12:40:06 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_sink": {
     "criteria": {
       "has_wooden_kitchen_sinks": "2024-11-28 12:29:43 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/combat/fisherman_hat": {
-    "criteria": {
-      "has_fish": "2024-11-28 12:30:17 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/hamburger": {
-    "criteria": {
-      "has_beef_patty": "2024-11-28 12:26:20 +0000"
-    },
-    "done": true
-  },
-  "nameless_trinkets:obtain/sigil_of_baphomet": {
-    "criteria": {
-      "sigil_of_baphomet": "2024-11-28 12:39:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2024-11-28 12:46:24 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/jury_rigged_upgrade": {
-    "criteria": {
-      "has_diamond": "2024-11-28 13:34:08 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2024-11-28 12:56:42 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/withered_wabbajack": {
-    "criteria": {
-      "has_item": "2024-11-28 12:30:31 +0000"
-    },
-    "done": true
-  },
-  "upgrade_aquatic:recipes/food/cooked_lionfish_from_campfire_cooking": {
-    "criteria": {
-      "has_lionfish": "2024-11-28 12:30:17 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/sc_manual": {
-    "criteria": {
-      "has_wood": "2024-11-28 12:46:24 +0000"
     },
     "done": true
   },
@@ -2608,87 +2194,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/rice_from_bag": {
-    "criteria": {
-      "has_rice_bag": "2024-11-28 12:25:07 +0000"
-    },
-    "done": true
-  },
-  "beautify:progression/blinds": {
-    "criteria": {
-      "obtain": "2024-11-28 12:49:45 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/gardener_upgrade": {
-    "criteria": {
-      "has_flower": "2024-11-28 12:52:13 +0000"
-    },
-    "done": true
-  },
-  "immersive_weathering:recipes/vine": {
-    "criteria": {
-      "has_copper_block": "2024-11-28 12:52:41 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_meal": {
-    "criteria": {
-      "has_item": "2024-11-28 12:26:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2024-11-28 13:34:08 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_sink": {
     "criteria": {
       "has_wooden_kitchen_sinks": "2024-11-28 12:29:43 +0000"
-    },
-    "done": true
-  },
-  "beautify:progression/hanging_pot": {
-    "criteria": {
-      "obtain": "2024-11-28 12:45:51 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_feast": {
-    "criteria": {
-      "stuffed_pumpkin": "2024-11-28 12:23:54 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/misc/stick": {
-    "criteria": {
-      "has_ingredient": "2024-11-28 12:46:24 +0000"
-    },
-    "done": true
-  },
-  "toughasnails:recipes/food/sweet_berry_juice": {
-    "criteria": {
-      "has_sweet_berries": "2024-11-28 12:52:05 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vine": {
-    "criteria": {
-      "has_vine": "2024-11-28 12:52:41 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/damage_protection_upgrade": {
-    "criteria": {
-      "has_apple": "2024-11-28 13:53:18 +0000"
-    },
-    "done": true
-  },
-  "nameless_trinkets:obtain/tear_of_the_sea": {
-    "criteria": {
-      "tear_of_the_sea": "2024-11-28 12:40:05 +0000"
     },
     "done": true
   },
@@ -2704,9 +2212,273 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/purple_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2024-11-28 12:29:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-11-28 12:30:09 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/food/cooked_lionfish": {
+    "criteria": {
+      "has_lionfish": "2024-11-28 12:30:17 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/aquatic_upgrade": {
+    "criteria": {
+      "has_feesh": "2024-11-28 12:30:17 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/fish_barrel": {
+    "criteria": {
+      "has_fish": "2024-11-28 12:30:17 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/fisherman_upgrade": {
+    "criteria": {
+      "has_fish": "2024-11-28 12:30:17 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/food/cooked_lionfish_from_smoking": {
+    "criteria": {
+      "has_lionfish": "2024-11-28 12:30:17 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/combat/fisherman_hat": {
+    "criteria": {
+      "has_fish": "2024-11-28 12:30:17 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/food/cooked_lionfish_from_campfire_cooking": {
+    "criteria": {
+      "has_lionfish": "2024-11-28 12:30:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-11-28 12:30:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-11-28 12:30:31 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/withered_wabbajack": {
+    "criteria": {
+      "has_item": "2024-11-28 12:30:31 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-11-28 12:33:41 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2024-11-28 12:33:43 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2024-11-28 12:33:43 +0000"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/root": {
+    "criteria": {
+      "obtain": "2024-11-28 12:39:46 +0000"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/sigil_of_baphomet": {
+    "criteria": {
+      "sigil_of_baphomet": "2024-11-28 12:39:46 +0000"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/tear_of_the_sea": {
+    "criteria": {
+      "tear_of_the_sea": "2024-11-28 12:40:05 +0000"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/gods_crown": {
+    "criteria": {
+      "gods_crown": "2024-11-28 12:40:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2024-11-28 12:42:24 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/hanging_pot": {
+    "criteria": {
+      "obtain": "2024-11-28 12:45:51 +0000"
+    },
+    "done": true
+  },
+  "beautify:hanging_pot": {
+    "criteria": {
+      "requirement": "2024-11-28 12:46:00 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/rope": {
+    "criteria": {
+      "obtain": "2024-11-28 12:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-11-28 12:46:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-11-28 12:46:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2024-11-28 12:46:24 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/architectscutter": {
+    "criteria": {
+      "has_log": "2024-11-28 12:46:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-11-28 12:46:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2024-11-28 12:46:24 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/stick": {
+    "criteria": {
+      "has_ingredient": "2024-11-28 12:46:24 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/bookstack": {
+    "criteria": {
+      "obtain": "2024-11-28 12:49:31 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/blinds": {
+    "criteria": {
+      "obtain": "2024-11-28 12:49:45 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/light": {
+    "criteria": {
+      "obtain": "2024-11-28 12:49:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2024-11-28 12:52:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/sweet_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2024-11-28 12:52:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_sweet_berries": {
+    "criteria": {
+      "has_sweet_berries": "2024-11-28 12:52:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/berry_jam_jar": {
+    "criteria": {
+      "has_berry_jam_jar": "2024-11-28 12:52:05 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/sweet_berry_juice": {
+    "criteria": {
+      "has_sweet_berries": "2024-11-28 12:52:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-11-28 12:52:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-11-28 12:52:13 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2024-11-28 12:52:13 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/herb_bundle": {
+    "criteria": {
+      "has_flower": "2024-11-28 12:52:13 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/gardener_upgrade": {
+    "criteria": {
+      "has_flower": "2024-11-28 12:52:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-11-28 12:52:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-11-28 12:52:14 +0000"
     },
     "done": true
   },
@@ -2716,17 +2488,245 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2024-11-28 12:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2024-11-28 12:52:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2024-11-28 12:52:41 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/vine": {
+    "criteria": {
+      "has_copper_block": "2024-11-28 12:52:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2024-11-28 12:52:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-11-28 12:53:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-11-28 12:53:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-11-28 12:54:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-11-28 12:54:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-11-28 12:56:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-11-28 12:56:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_microwave": {
+    "criteria": {
+      "has_microwave": "2024-11-28 13:12:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_microwave": {
+    "criteria": {
+      "has_light_microwave": "2024-11-28 13:12:49 +0000"
+    },
+    "done": true
+  },
+  "chipped:recipes/carpenters_table": {
+    "criteria": {
+      "has_carpenters_table": "2024-11-28 13:14:44 +0000"
+    },
+    "done": true
+  },
+  "rats:plague_doctor": {
+    "criteria": {
+      "meet_doctor": "2024-11-28 13:20:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-28 13:20:21 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/undead_upgrade": {
+    "criteria": {
+      "has_flesh": "2024-11-28 13:20:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-11-28 13:20:21 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-11-28 13:20:21 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/warrior_upgrade": {
+    "criteria": {
+      "has_block": "2024-11-28 13:34:08 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/jury_rigged_upgrade": {
+    "criteria": {
+      "has_diamond": "2024-11-28 13:34:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2024-11-28 13:34:08 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/super_treat": {
+    "criteria": {
+      "has_golden_apple": "2024-11-28 13:53:18 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/chef_upgrade": {
+    "criteria": {
+      "has_apple": "2024-11-28 13:53:18 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/damage_protection_upgrade": {
+    "criteria": {
+      "has_apple": "2024-11-28 13:53:18 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/crossbow_upgrade": {
+    "criteria": {
+      "has_bow": "2024-11-28 13:53:31 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/crossbow_repairing": {
     "criteria": {
       "has_crossbow": "2024-11-28 13:53:31 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/purple_kitchen_sink": {
+  "rats:recipes/misc/upgrades/bow_upgrade": {
     "criteria": {
-      "has_wooden_kitchen_sinks": "2024-11-28 12:29:43 +0000"
+      "has_arrow": "2024-11-28 13:53:32 +0000"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-28 15:17:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-28 15:17:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-28 15:17:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-28 15:17:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-28 15:17:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-28 15:17:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-28 15:17:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-28 15:17:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-28 15:17:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-28 15:17:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-28 15:17:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-28 15:17:42 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
