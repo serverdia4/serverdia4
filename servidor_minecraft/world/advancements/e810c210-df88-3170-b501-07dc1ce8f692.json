@@ -2088,73 +2088,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 12:29:26 +0000"
+      "log_spam_fixer": "2024-11-28 12:39:26 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 12:29:26 +0000"
+      "log_spam_fixer": "2024-11-28 12:39:26 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 12:29:26 +0000"
+      "log_spam_fixer": "2024-11-28 12:39:26 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 12:29:26 +0000"
+      "log_spam_fixer": "2024-11-28 12:39:26 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 12:29:26 +0000"
+      "log_spam_fixer": "2024-11-28 12:39:26 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 12:29:26 +0000"
+      "log_spam_fixer": "2024-11-28 12:39:26 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 12:29:26 +0000"
+      "log_spam_fixer": "2024-11-28 12:39:26 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 12:29:26 +0000"
+      "log_spam_fixer": "2024-11-28 12:39:26 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 12:29:26 +0000"
+      "log_spam_fixer": "2024-11-28 12:39:26 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 12:29:26 +0000"
+      "log_spam_fixer": "2024-11-28 12:39:26 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 12:29:26 +0000"
+      "log_spam_fixer": "2024-11-28 12:39:26 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 12:29:26 +0000"
+      "log_spam_fixer": "2024-11-28 12:39:26 +0000"
     },
     "done": false
   },
@@ -2176,9 +2176,21 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/food/cooked_lionfish": {
+    "criteria": {
+      "has_lionfish": "2024-11-28 12:30:17 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_kitchen_sink": {
     "criteria": {
       "has_wooden_kitchen_sinks": "2024-11-28 12:29:43 +0000"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/root": {
+    "criteria": {
+      "obtain": "2024-11-28 12:39:46 +0000"
     },
     "done": true
   },
@@ -2206,6 +2218,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-11-28 12:33:41 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_kitchen_sink": {
     "criteria": {
       "has_wooden_kitchen_sinks": "2024-11-28 12:29:43 +0000"
@@ -2224,6 +2242,54 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/aquatic_upgrade": {
+    "criteria": {
+      "has_feesh": "2024-11-28 12:30:17 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/fish_barrel": {
+    "criteria": {
+      "has_fish": "2024-11-28 12:30:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-11-28 12:30:31 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/fisherman_upgrade": {
+    "criteria": {
+      "has_fish": "2024-11-28 12:30:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-11-28 12:30:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-11-28 12:30:09 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2024-11-28 12:33:43 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/food/cooked_lionfish_from_smoking": {
+    "criteria": {
+      "has_lionfish": "2024-11-28 12:30:17 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/brown_kitchen_sink": {
     "criteria": {
       "has_wooden_kitchen_sinks": "2024-11-28 12:29:43 +0000"
@@ -2236,9 +2302,33 @@
     },
     "done": true
   },
+  "rats:recipes/combat/fisherman_hat": {
+    "criteria": {
+      "has_fish": "2024-11-28 12:30:17 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/hamburger": {
     "criteria": {
       "has_beef_patty": "2024-11-28 12:26:20 +0000"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/sigil_of_baphomet": {
+    "criteria": {
+      "sigil_of_baphomet": "2024-11-28 12:39:46 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/withered_wabbajack": {
+    "criteria": {
+      "has_item": "2024-11-28 12:30:31 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/food/cooked_lionfish_from_campfire_cooking": {
+    "criteria": {
+      "has_lionfish": "2024-11-28 12:30:17 +0000"
     },
     "done": true
   },
@@ -2281,6 +2371,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_sink": {
     "criteria": {
       "has_wooden_kitchen_sinks": "2024-11-28 12:29:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2024-11-28 12:33:43 +0000"
     },
     "done": true
   },
