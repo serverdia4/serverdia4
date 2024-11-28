@@ -653,75 +653,99 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 00:23:25 +0000"
+      "log_spam_fixer": "2024-11-28 00:33:25 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 00:23:25 +0000"
+      "log_spam_fixer": "2024-11-28 00:33:25 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 00:23:25 +0000"
+      "log_spam_fixer": "2024-11-28 00:33:25 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 00:23:25 +0000"
+      "log_spam_fixer": "2024-11-28 00:33:25 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 00:23:25 +0000"
+      "log_spam_fixer": "2024-11-28 00:33:25 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 00:23:25 +0000"
+      "log_spam_fixer": "2024-11-28 00:33:25 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 00:23:25 +0000"
+      "log_spam_fixer": "2024-11-28 00:33:25 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 00:23:25 +0000"
+      "log_spam_fixer": "2024-11-28 00:33:25 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 00:23:25 +0000"
+      "log_spam_fixer": "2024-11-28 00:33:25 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 00:23:25 +0000"
+      "log_spam_fixer": "2024-11-28 00:33:25 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 00:23:25 +0000"
+      "log_spam_fixer": "2024-11-28 00:33:25 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 00:23:25 +0000"
+      "log_spam_fixer": "2024-11-28 00:33:25 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-11-28 00:27:08 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/rat_attractor": {
+    "criteria": {
+      "has_lantern": "2024-11-28 00:26:36 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_sconce": "2024-11-28 00:25:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-11-28 00:27:08 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
