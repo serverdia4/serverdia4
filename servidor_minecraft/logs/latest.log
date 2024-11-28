@@ -2761,3 +2761,102 @@ java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIn
 [28Nov2024 12:05:25.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: e<--[HERE]
 [28Nov2024 12:09:20.291] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/chunk/LevelChunk$EntityCreationType
 [28Nov2024 12:09:22.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2479ms or 49 ticks behind
+[28Nov2024 12:12:51.411] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/ConnectionType
+[28Nov2024 12:12:51.537] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/network/ServerLoginPacketListenerImpl$State
+[28Nov2024 12:12:57.077] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: softfer[/127.82.223.232:46271] logged in with entity id 726 at (-44.5, 98.0, 102.5)
+[28Nov2024 12:12:57.082] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/filters/VanillaPacketSplitter$RemoteCompatibility
+[28Nov2024 12:12:57.088] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/Nameless_Sorcerer_Entity$SpellType
+[28Nov2024 12:12:57.093] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/dairymoose/xenotech/entity/DummyEntity$Status
+[28Nov2024 12:12:57.096] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/dairymoose/xenotech/client/gui/screens/TaskElement
+[28Nov2024 12:12:57.097] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/dairymoose/xenotech/entity/DummyEntity$VehicleType
+[28Nov2024 12:12:57.099] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/InternalAnimationMonster/IABossMonsters/Ancient_Remnant/Ancient_Remnant_Entity$AttackMode
+[28Nov2024 12:12:57.102] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexmodguy/alexscaves/server/entity/living/MagnetronEntity$AttackPose
+[28Nov2024 12:12:57.103] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/entity/naga/EntityNaga$EnumNagaMovement
+[28Nov2024 12:12:57.104] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/miauczel/legendary_monsters/entity/custom/PosessedPaladinEntity$AttackType
+[28Nov2024 12:12:57.109] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/entity/boss/KnightPhantom$Formation
+[28Nov2024 12:12:57.122] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/The_Leviathan/The_Leviathan_Entity$AttackMode
+[28Nov2024 12:12:57.129] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[28Nov2024 12:12:57.132] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/entity/grottol/EntityGrottol$EnumDeathType
+[28Nov2024 12:12:57.140] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/EntityMimicOctopus$MimicState
+[28Nov2024 12:12:57.141] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/Ancient_Ancient_Remnant_Entity$AttackMode
+[28Nov2024 12:12:57.150] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/SpellcasterIllager$IllagerSpell
+[28Nov2024 12:12:57.154] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/teamabnormals/upgrade_aquatic/common/entity/monster/Flare$AttackPhase
+[28Nov2024 12:12:57.189] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to softfer
+[28Nov2024 12:12:57.190] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to softfer
+[28Nov2024 12:12:57.190] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to softfer
+[28Nov2024 12:12:57.191] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to softfer
+[28Nov2024 12:12:57.195] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to softfer
+[28Nov2024 12:12:57.198] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to softfer
+[28Nov2024 12:12:57.199] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to softfer
+[28Nov2024 12:12:57.203] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/teamresourceful/yabn/elements/YabnType
+[28Nov2024 12:12:57.231] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$Face
+[28Nov2024 12:12:57.231] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$TerrainType
+[28Nov2024 12:12:57.232] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$Biome
+[28Nov2024 12:12:57.232] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$Feature
+[28Nov2024 12:12:57.236] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/utils/MiscUtils$Festivity
+[28Nov2024 12:12:57.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: softfer joined the game
+[28Nov2024 12:12:57.447] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/ability/AbilityHandler
+[28Nov2024 12:12:57.459] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/ability/AbilitySection$AbilitySectionType
+[28Nov2024 12:12:57.512] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[28Nov2024 12:12:57.516] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/AdvancementCommands$Action
+[28Nov2024 12:12:57.684] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/network/Kind
+[28Nov2024 12:12:57.719] [Server thread/INFO] [structurize/]: New Server UUID a58bba69-8098-4ea4-8290-01b08e547bc4
+[28Nov2024 12:12:59.041] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/network/ClientRequestSettingsPacket$Event
+[28Nov2024 12:13:18.180] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/ClipContext$Block
+[28Nov2024 12:13:18.193] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/event/platform/InputType
+[28Nov2024 12:13:18.201] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/util/HandSide
+[28Nov2024 12:13:18.231] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/trains/signal/EdgeGroupColor
+[28Nov2024 12:13:18.300] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of softfer (18)
+[28Nov2024 12:13:18.302] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to softfer
+[28Nov2024 12:13:18.303] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/network/ConfirmedSetting$Event
+[28Nov2024 12:13:18.327] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/railwayteam/railways/util/DevCapeUtils
+[28Nov2024 12:13:18.359] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21299ms or 425 ticks behind
+[28Nov2024 12:13:18.530] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/advancements/AdvancementVisibilityEvaluator$VisibilityRule
+[28Nov2024 12:13:18.584] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting top/theillusivec4/caelus/api/CaelusApi$TriState
+[28Nov2024 12:13:18.649] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/ai/NightwatcherRobGoal$Task
+[28Nov2024 12:13:18.745] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/aetherteam/nitrogen/capability/INBTSynchable$Direction
+[28Nov2024 12:13:18.777] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting be/florens/expandability/EventResult
+[28Nov2024 12:13:18.991] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/phys/HitResult$Type
+[28Nov2024 12:13:19.006] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
+[28Nov2024 12:13:19.040] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[28Nov2024 12:13:19.286] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[28Nov2024 12:13:19.513] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/profiling/metrics/MetricCategory
+[28Nov2024 12:13:19.874] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/blockentity/MusicManagerBlockEntity$MonitorType
+[28Nov2024 12:13:21.301] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/pathfinder/ExtendedPathNodeType
+[28Nov2024 12:13:22.345] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ordana/immersive_weathering/util/PatchSpreader$Susceptibility
+[28Nov2024 12:13:22.346] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ordana/immersive_weathering/util/PatchSpreader$WeatheringAgent
+[28Nov2024 12:13:25.496] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting weather2/weathersystem/storm/EnumWeatherObjectType
+[28Nov2024 12:13:25.501] [Server thread/INFO] [coroutil/]: CoroUtil detected Serene Seasons Not Installed for use
+[28Nov2024 12:13:26.447] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[28Nov2024 12:13:26.448] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[28Nov2024 12:13:26.451] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[28Nov2024 12:13:38.511] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[28Nov2024 12:13:41.223] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7913ms or 158 ticks behind
+[28Nov2024 12:13:50.499] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
+[28Nov2024 12:14:16.368] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[28Nov2024 12:14:26.177] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/AdvancementCommands$Mode
+[28Nov2024 12:14:26.245] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/DialogueType
+[28Nov2024 12:14:52.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[28Nov2024 12:14:52.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: opsoftfer<--[HERE]
+[28Nov2024 12:15:02.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [softfer: Set own game mode to Creative Mode]
+[28Nov2024 12:15:54.393] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[28Nov2024 12:18:01.409] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/event/platform/Interaction
+[28Nov2024 12:18:09.527] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting earth/terrarium/cadmus/api/claims/InteractionType
+[28Nov2024 12:20:06.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [softfer: Killed all storms]
+[28Nov2024 12:23:54.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: softfer has made the advancement [A Glorious Feast]
+[28Nov2024 12:24:54.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: softfer has reached the goal [Dinner's Served!]
+[28Nov2024 12:26:01.136] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jordančo'/1586, l='ServerLevel[world]', x=402.34, y=61.21, z=248.30] died, message: 'Jordančo drowned'
+[28Nov2024 12:26:01.138] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Jordančo'/1586, l='ServerLevel[world]', x=402.34, y=61.21, z=248.30] died: Jordančo drowned
+[28Nov2024 12:26:01.143] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
+[28Nov2024 12:26:01.155] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType
+[28Nov2024 12:27:09.429] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[28Nov2024 12:28:26.248] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/amendments/reg/ModBlockProperties$PostType
+[28Nov2024 12:28:30.177] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[28Nov2024 12:29:11.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[28Nov2024 12:29:11.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: e<--[HERE]
+[28Nov2024 12:29:12.025] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Enisa}[style={}] has been infected
+[28Nov2024 12:29:20.636] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Enisa'/1598, l='ServerLevel[world]', x=249.78, y=72.00, z=245.76] died, message: 'Enisa was slain by Milanka'
+[28Nov2024 12:29:20.644] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Enisa'/1598, l='ServerLevel[world]', x=249.78, y=72.00, z=245.76] died: Enisa was slain by Milanka
+[28Nov2024 12:30:09.523] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/1656, l='ServerLevel[world]', x=232.91, y=72.00, z=252.02] died, message: 'Leatherworker was slain by Milanka'
+[28Nov2024 12:30:31.212] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting weather2/weathersystem/storm/WeatherObjectParticleStorm$StormType
+[28Nov2024 12:30:31.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: softfer has made the advancement [Spooky Scary Skeleton]
