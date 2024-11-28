@@ -6183,3 +6183,1013 @@ java.lang.IndexOutOfBoundsException: readerIndex(7) + length(1) exceeds writerIn
 [28Nov2024 00:44:37.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [28Nov2024 00:44:37.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: e<--[HERE]
 [28Nov2024 00:47:09.089] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2764ms or 55 ticks behind
+[28Nov2024 00:57:53.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2325ms or 46 ticks behind
+[28Nov2024 00:58:44.962] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-33, y=86, z=571} but found not block entity block Block{minecraft:air} at location
+[28Nov2024 00:58:44.962] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-33, y=86, z=571}
+[28Nov2024 00:59:57.189] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10964ms or 219 ticks behind
+[28Nov2024 01:00:37.238] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Biljana'/361, l='ServerLevel[world]', x=348.14, y=73.00, z=298.50] died, message: 'Biljana was grilled to perfection'
+[28Nov2024 01:00:37.240] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Biljana'/361, l='ServerLevel[world]', x=348.14, y=73.00, z=298.50] died: Biljana was grilled to perfection
+[28Nov2024 01:01:12.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2130ms or 42 ticks behind
+[28Nov2024 01:02:05.009] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2583ms or 51 ticks behind
+[28Nov2024 01:03:08.390] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-182, y=71, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.391] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-181, y=71, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.391] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-180, y=71, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.392] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-179, y=71, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.392] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-178, y=71, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.392] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-177, y=71, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.393] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-176, y=71, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.393] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-175, y=71, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.393] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-174, y=71, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.393] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-173, y=71, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.394] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-172, y=71, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.394] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-171, y=71, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.394] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-170, y=71, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.395] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-184, y=72, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.396] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-183, y=72, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.396] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-182, y=72, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.396] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-181, y=72, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.397] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-181, y=72, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.397] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-180, y=72, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.397] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-179, y=72, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.398] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-178, y=72, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.398] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-177, y=72, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.398] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-176, y=72, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.399] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-175, y=72, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.399] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-174, y=72, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.399] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-173, y=72, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.400] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-172, y=72, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.400] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-171, y=72, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.400] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-170, y=72, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.400] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-169, y=72, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.401] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-184, y=73, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.402] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-183, y=73, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.402] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-183, y=73, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.402] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-182, y=73, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.402] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-182, y=73, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.403] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-181, y=73, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.403] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-181, y=73, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.403] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-180, y=73, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.404] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-180, y=73, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.404] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-179, y=73, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.404] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-179, y=73, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.404] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-178, y=73, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.404] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-177, y=73, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.404] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-176, y=73, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.405] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-175, y=73, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.405] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-174, y=73, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.405] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-174, y=73, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.405] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-173, y=73, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.405] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-173, y=73, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.405] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-172, y=73, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.405] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-172, y=73, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.405] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-171, y=73, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.406] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-171, y=73, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.406] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-170, y=73, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.406] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-169, y=73, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.406] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-184, y=74, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.407] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-183, y=74, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.407] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-183, y=74, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.407] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-182, y=74, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.407] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-182, y=74, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.407] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-181, y=74, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.407] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-181, y=74, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.407] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-180, y=74, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.408] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-180, y=74, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.408] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-179, y=74, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.408] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-178, y=74, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.408] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-177, y=74, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.408] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-176, y=74, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.409] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-175, y=74, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.409] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-175, y=74, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.409] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-174, y=74, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.409] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-174, y=74, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.409] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-173, y=74, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.409] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-173, y=74, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.409] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-172, y=74, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.410] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-172, y=74, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.410] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-171, y=74, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.410] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-171, y=74, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.410] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-170, y=74, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.410] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-170, y=74, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.410] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-169, y=74, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.415] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-184, y=75, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.415] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-181, y=75, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.415] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-180, y=75, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.415] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-177, y=75, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.415] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-175, y=75, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.415] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-174, y=75, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.416] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-173, y=75, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.416] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-173, y=75, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.416] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-170, y=75, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.421] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-192, y=86, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.421] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-192, y=86, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.421] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-191, y=86, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.421] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-191, y=86, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.422] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-190, y=86, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.422] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-190, y=86, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.422] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-189, y=86, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.422] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-189, y=86, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.422] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-188, y=86, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.422] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-188, y=86, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.422] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-187, y=86, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.422] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-187, y=86, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.422] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-186, y=86, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.423] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-186, y=86, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.423] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-185, y=86, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.423] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-185, y=86, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.423] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-184, y=86, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.423] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-184, y=86, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.423] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-183, y=86, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.423] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-183, y=86, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.423] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-182, y=86, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.423] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-182, y=86, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.424] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-181, y=86, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.424] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-181, y=86, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.424] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-180, y=86, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.424] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-180, y=86, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.424] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-179, y=86, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.424] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-179, y=86, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.424] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-178, y=86, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.424] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-178, y=86, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.424] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-177, y=86, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.425] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-177, y=86, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.425] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-176, y=86, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.425] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-176, y=86, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.425] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-175, y=86, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.425] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-175, y=86, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.425] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-174, y=86, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.425] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-174, y=86, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.425] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-173, y=86, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.426] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-173, y=86, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.426] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-172, y=86, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.426] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-172, y=86, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.426] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-171, y=86, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.426] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-171, y=86, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.426] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-170, y=86, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.426] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-170, y=86, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.426] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-169, y=86, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.426] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-169, y=86, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.427] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-168, y=86, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.427] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-168, y=86, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.427] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-167, y=86, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.427] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-167, y=86, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.427] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-166, y=86, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.427] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-166, y=86, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.427] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-165, y=86, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.427] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-165, y=86, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.427] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-164, y=86, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.427] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-164, y=86, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.428] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-163, y=86, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.428] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-163, y=86, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.428] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-192, y=87, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.428] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-192, y=87, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.428] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-191, y=87, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.428] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-191, y=87, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.428] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-190, y=87, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.428] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-190, y=87, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.429] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-189, y=87, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.429] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-189, y=87, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.429] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-188, y=87, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.429] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-188, y=87, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.429] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-187, y=87, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.429] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-187, y=87, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.429] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-186, y=87, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.429] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-186, y=87, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.429] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-185, y=87, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.430] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-185, y=87, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.430] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-184, y=87, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.430] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-184, y=87, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.430] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-183, y=87, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.430] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-183, y=87, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.430] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-182, y=87, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.430] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-182, y=87, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.430] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-181, y=87, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.431] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-181, y=87, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.431] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-180, y=87, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.431] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-180, y=87, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.431] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-179, y=87, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.431] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-179, y=87, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.431] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-178, y=87, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.431] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-178, y=87, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.431] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-177, y=87, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.431] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-177, y=87, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.431] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-176, y=87, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.432] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-176, y=87, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.432] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-175, y=87, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.432] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-175, y=87, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.432] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-174, y=87, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.432] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-174, y=87, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.432] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-173, y=87, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.432] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-173, y=87, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.432] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-172, y=87, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.432] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-172, y=87, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.433] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-171, y=87, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.433] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-171, y=87, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.433] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-170, y=87, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.433] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-170, y=87, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.433] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-169, y=87, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.433] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-169, y=87, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.433] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-168, y=87, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.433] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-168, y=87, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.434] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-167, y=87, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.434] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-167, y=87, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.434] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-166, y=87, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.434] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-166, y=87, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.434] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-165, y=87, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.434] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-165, y=87, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.434] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-164, y=87, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.434] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-164, y=87, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.434] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-163, y=87, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.434] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-163, y=87, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.435] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-192, y=88, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.435] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-192, y=88, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.435] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-191, y=88, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.435] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-191, y=88, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.435] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-190, y=88, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.435] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-190, y=88, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.435] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-189, y=88, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.435] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-189, y=88, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.435] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-188, y=88, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.436] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-188, y=88, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.436] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-187, y=88, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.436] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-187, y=88, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.436] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-186, y=88, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.436] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-186, y=88, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.436] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-185, y=88, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.436] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-185, y=88, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.436] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-184, y=88, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.436] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-184, y=88, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.436] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-183, y=88, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.437] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-183, y=88, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.437] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-182, y=88, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.437] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-182, y=88, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.437] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-181, y=88, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.437] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-181, y=88, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.437] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-180, y=88, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.437] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-180, y=88, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.437] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-179, y=88, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.437] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-179, y=88, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.438] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-178, y=88, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.438] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-178, y=88, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.438] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-177, y=88, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.438] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, 47], pos: BlockPos{x=-177, y=88, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.438] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-176, y=88, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.438] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-176, y=88, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.438] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-175, y=88, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.438] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-175, y=88, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.438] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-174, y=88, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.439] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-174, y=88, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.439] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-173, y=88, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.439] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-173, y=88, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.439] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-172, y=88, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.439] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-172, y=88, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.439] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-171, y=88, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.439] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-171, y=88, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.440] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-170, y=88, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.440] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-170, y=88, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.440] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-169, y=88, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.440] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-169, y=88, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.440] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-168, y=88, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.440] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-168, y=88, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.440] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-167, y=88, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.441] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-167, y=88, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.441] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-166, y=88, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.441] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-166, y=88, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.441] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-165, y=88, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.441] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-165, y=88, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.441] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-164, y=88, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.441] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-164, y=88, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.441] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-163, y=88, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:08.442] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 47], pos: BlockPos{x=-163, y=88, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / butcher:butcherhouse_2]
+[28Nov2024 01:03:22.256] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Angel'/554, l='ServerLevel[world]', x=427.76, y=61.19, z=215.12] died, message: 'Angel drowned'
+[28Nov2024 01:03:22.258] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Angel'/554, l='ServerLevel[world]', x=427.76, y=61.19, z=215.12] died: Angel drowned
+[28Nov2024 01:03:46.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4403ms or 88 ticks behind
+[28Nov2024 01:04:20.234] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-175, y=87, z=725} but found not block entity block Block{minecraft:air} at location
+[28Nov2024 01:04:20.234] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-175, y=87, z=725}
+[28Nov2024 01:04:27.638] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2112ms or 42 ticks behind
+[28Nov2024 01:04:27.662] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-177, y=87, z=727} but found not block entity block Block{minecraft:air} at location
+[28Nov2024 01:04:27.663] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-177, y=87, z=727}
+[28Nov2024 01:04:27.663] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-177, y=87, z=725} but found not block entity block Block{minecraft:air} at location
+[28Nov2024 01:04:27.663] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-177, y=87, z=725}
+[28Nov2024 01:04:30.365] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-176, y=87, z=725} but found not block entity block Block{minecraft:air} at location
+[28Nov2024 01:04:30.365] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-176, y=87, z=725}
+[28Nov2024 01:05:36.929] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sabri'/556, l='ServerLevel[world]', x=414.13, y=61.45, z=228.57] died, message: 'Sabri suffocated in a wall'
+[28Nov2024 01:05:36.931] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Sabri'/556, l='ServerLevel[world]', x=414.13, y=61.45, z=228.57] died: Sabri suffocated in a wall
+[28Nov2024 01:06:52.115] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2789ms or 55 ticks behind
+[28Nov2024 01:07:35.286] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-340, y=68, z=820} but found not block entity block Block{minecraft:air} at location
+[28Nov2024 01:07:35.287] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-340, y=68, z=820}
+[28Nov2024 01:07:36.723] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-308, y=64, z=815} but found not block entity block Block{minecraft:air} at location
+[28Nov2024 01:07:36.723] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-308, y=64, z=815}
+[28Nov2024 01:07:36.724] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-308, y=64, z=814} but found not block entity block Block{minecraft:air} at location
+[28Nov2024 01:07:36.724] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-308, y=64, z=814}
+[28Nov2024 01:07:42.646] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-349, y=65, z=812} but found not block entity block Block{minecraft:air} at location
+[28Nov2024 01:07:42.646] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-349, y=65, z=812}
+[28Nov2024 01:07:46.789] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-348, y=65, z=812} but found not block entity block Block{minecraft:air} at location
+[28Nov2024 01:07:46.789] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-348, y=65, z=812}
+[28Nov2024 01:07:48.333] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-347, y=65, z=827} but found not block entity block Block{minecraft:air} at location
+[28Nov2024 01:07:48.334] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-347, y=65, z=827}
+[28Nov2024 01:07:53.994] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-349, y=65, z=804} but found not block entity block Block{minecraft:air} at location
+[28Nov2024 01:07:53.994] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-349, y=65, z=804}
+[28Nov2024 01:07:58.594] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-346, y=66, z=838} but found not block entity block Block{minecraft:air} at location
+[28Nov2024 01:07:58.594] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-346, y=66, z=838}
+[28Nov2024 01:07:58.596] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-346, y=66, z=840} but found not block entity block Block{minecraft:air} at location
+[28Nov2024 01:07:58.596] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-346, y=66, z=840}
+[28Nov2024 01:07:58.598] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-344, y=66, z=840} but found not block entity block Block{minecraft:air} at location
+[28Nov2024 01:07:58.598] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-344, y=66, z=840}
+[28Nov2024 01:07:59.119] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-348, y=65, z=804} but found not block entity block Block{minecraft:air} at location
+[28Nov2024 01:07:59.119] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-348, y=65, z=804}
+[28Nov2024 01:07:59.120] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-346, y=65, z=827} but found not block entity block Block{minecraft:air} at location
+[28Nov2024 01:07:59.121] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-346, y=65, z=827}
+[28Nov2024 01:07:59.122] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-345, y=66, z=838} but found not block entity block Block{minecraft:air} at location
+[28Nov2024 01:07:59.122] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-345, y=66, z=838}
+[28Nov2024 01:08:05.848] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-334, y=66, z=833} but found not block entity block Block{minecraft:air} at location
+[28Nov2024 01:08:05.848] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-334, y=66, z=833}
+[28Nov2024 01:08:09.134] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-335, y=66, z=833} but found not block entity block Block{minecraft:air} at location
+[28Nov2024 01:08:09.134] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-335, y=66, z=833}
+[28Nov2024 01:08:12.168] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2142ms or 42 ticks behind
+[28Nov2024 01:08:27.013] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-347, y=65, z=829} but found not block entity block Block{minecraft:air} at location
+[28Nov2024 01:08:27.013] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-347, y=65, z=829}
+[28Nov2024 01:08:27.014] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-345, y=65, z=829} but found not block entity block Block{minecraft:air} at location
+[28Nov2024 01:08:27.014] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-345, y=65, z=829}
+[28Nov2024 01:08:29.275] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@501edfac]Trying to start horde event on day 10 with nextDay 10 and time 19156
+[28Nov2024 01:08:29.280] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@5c56f926
+[28Nov2024 01:08:29.282] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
+[28Nov2024 01:08:29.282] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
+[28Nov2024 01:08:29.332] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[28Nov2024 01:08:29.332] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[28Nov2024 01:09:19.302] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[28Nov2024 01:09:19.302] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[28Nov2024 01:09:54.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2770ms or 55 ticks behind
+[28Nov2024 01:10:12.061] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[28Nov2024 01:10:12.061] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[28Nov2024 01:10:34.919] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-112, y=93, z=1227} but found not block entity block Block{minecraft:air} at location
+[28Nov2024 01:10:34.920] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-112, y=93, z=1227}
+[28Nov2024 01:11:02.069] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[28Nov2024 01:11:02.070] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[28Nov2024 01:11:12.283] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3057ms or 61 ticks behind
+[28Nov2024 01:11:55.145] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[28Nov2024 01:11:55.146] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[28Nov2024 01:12:45.110] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[28Nov2024 01:12:45.111] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[28Nov2024 01:13:18.265] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Decoding error for packet:unknown
+java.lang.IndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.network.ConnectionProtocol$PacketSet.m_178327_(ConnectionProtocol.java:458) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.ConnectionProtocol.m_178321_(ConnectionProtocol.java:522) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.PacketDecoder.redirect$bhg000$connectivity$checkDecodingError(PacketDecoder.java:568) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.PacketDecoder.decode(PacketDecoder.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.server.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar%2383!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[28Nov2024 01:13:18.268] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export: ------>
+[28Nov2024 01:13:18.269] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:FriendlyByteBuf 
+[28Nov2024 01:13:18.269] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[1, 0, 41, 0, 0, 0, 0, 0, 0, 21, 0, 6, 1, 0, 27, 0, 1, 2]"
+]
+[28Nov2024 01:13:18.270] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export End: ------>
+[28Nov2024 01:13:18.270] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[28Nov2024 01:13:18.272] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 41,
+  "f_134721_": "",
+  "f_134722_": 0,
+  "f_134723_": "PLAY",
+  "fmlVersion": "NONE"
+}
+[28Nov2024 01:13:18.273] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 11 extra bytes: 
+[28Nov2024 01:13:18.273] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[0, 0, 21, 0, 6, 1, 0, 27, 0, 1, 2]"
+]
+[28Nov2024 01:13:18.274] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Decoding error for packet:class net.minecraft.network.protocol.handshake.ClientIntentionPacket
+java.lang.IndexOutOfBoundsException: index: 10, length: 21 (expected: range(0, 18))
+	at io.netty.buffer.AbstractByteBuf.checkRangeBounds(AbstractByteBuf.java:1390) ~[netty-buffer-4.1.82.Final.jar%2380!/:4.1.82.Final]
+	at io.netty.buffer.AbstractByteBuf.checkIndex0(AbstractByteBuf.java:1397) ~[netty-buffer-4.1.82.Final.jar%2380!/:4.1.82.Final]
+	at io.netty.buffer.AbstractByteBuf.checkIndex(AbstractByteBuf.java:1384) ~[netty-buffer-4.1.82.Final.jar%2380!/:4.1.82.Final]
+	at io.netty.buffer.UnsafeByteBufUtil.getBytes(UnsafeByteBufUtil.java:481) ~[netty-buffer-4.1.82.Final.jar%2380!/:4.1.82.Final]
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.getBytes(PooledUnsafeDirectByteBuf.java:130) ~[netty-buffer-4.1.82.Final.jar%2380!/:4.1.82.Final]
+	at io.netty.buffer.ByteBufUtil.decodeString(ByteBufUtil.java:1270) ~[netty-buffer-4.1.82.Final.jar%2380!/:4.1.82.Final]
+	at io.netty.buffer.AbstractByteBuf.toString(AbstractByteBuf.java:1246) ~[netty-buffer-4.1.82.Final.jar%2380!/:4.1.82.Final]
+	at net.minecraft.network.FriendlyByteBuf.toString(FriendlyByteBuf.java:1537) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.FriendlyByteBuf.m_130136_(FriendlyByteBuf.java:676) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.protocol.handshake.ClientIntentionPacket.<init>(ClientIntentionPacket.java:25) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.ConnectionProtocol$PacketSet.m_178327_(ConnectionProtocol.java:459) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.ConnectionProtocol.m_178321_(ConnectionProtocol.java:522) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.PacketDecoder.redirect$bhg000$connectivity$checkDecodingError(PacketDecoder.java:568) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.PacketDecoder.decode(PacketDecoder.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:416) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:383) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:366) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:262) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:248) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:241) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:401) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:366) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:262) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:248) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:241) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:81) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.timeout.IdleStateHandler.channelInactive(IdleStateHandler.java:277) ~[netty-handler-4.1.82.Final.jar%2383!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:262) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:248) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:241) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelInactive(DefaultChannelPipeline.java:1405) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:262) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:248) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelInactive(DefaultChannelPipeline.java:901) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:813) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[28Nov2024 01:13:18.276] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export: ------>
+[28Nov2024 01:13:18.276] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:FriendlyByteBuf 
+[28Nov2024 01:13:18.276] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[1, 0, 41, 0, 0, 0, 0, 0, 0, 21, 0, 6, 1, 0, 27, 0, 1, 2]"
+]
+[28Nov2024 01:13:18.276] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export End: ------>
+[28Nov2024 01:13:19.532] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Decoding error for packet:unknown
+java.lang.IndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.network.ConnectionProtocol$PacketSet.m_178327_(ConnectionProtocol.java:458) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.ConnectionProtocol.m_178321_(ConnectionProtocol.java:522) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.PacketDecoder.redirect$bhg000$connectivity$checkDecodingError(PacketDecoder.java:568) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.PacketDecoder.decode(PacketDecoder.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.server.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar%2383!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[28Nov2024 01:13:19.541] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export: ------>
+[28Nov2024 01:13:19.541] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:FriendlyByteBuf 
+[28Nov2024 01:13:19.541] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[1, 0, -62, 0, 0, 1, 0, -70, 0, 0, 0, 1, 0, 0, 113, 0]"
+]
+[28Nov2024 01:13:19.541] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export End: ------>
+[28Nov2024 01:13:19.542] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[28Nov2024 01:13:19.542] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 66,
+  "f_134721_": "",
+  "f_134722_": 256,
+  "fmlVersion": "NONE"
+}
+[28Nov2024 01:13:19.542] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 7 extra bytes: 
+[28Nov2024 01:13:19.543] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[0, 0, 1, 0, 0, 113, 0]"
+]
+[28Nov2024 01:13:19.543] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Decoding error for packet:class net.minecraft.network.protocol.handshake.ClientIntentionPacket
+java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 0
+	at net.minecraftforge.network.NetworkHooks.getFMLVersion(NetworkHooks.java:52) ~[forge-1.20.1-47.3.7-universal.jar%23496!/:?]
+	at net.minecraft.network.protocol.handshake.ClientIntentionPacket.<init>(ClientIntentionPacket.java:28) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.ConnectionProtocol$PacketSet.m_178327_(ConnectionProtocol.java:459) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.ConnectionProtocol.m_178321_(ConnectionProtocol.java:522) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.PacketDecoder.redirect$bhg000$connectivity$checkDecodingError(PacketDecoder.java:568) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.PacketDecoder.decode(PacketDecoder.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.server.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar%2383!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[28Nov2024 01:13:19.544] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export: ------>
+[28Nov2024 01:13:19.544] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:FriendlyByteBuf 
+[28Nov2024 01:13:19.544] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[1, 0, -62, 0, 0, 1, 0, -70, 0, 0, 0, 1, 0, 0, 113, 0]"
+]
+[28Nov2024 01:13:19.544] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export End: ------>
+[28Nov2024 01:13:19.545] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Decoding error for packet:unknown
+java.lang.IndexOutOfBoundsException: Index 3216 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.network.ConnectionProtocol$PacketSet.m_178327_(ConnectionProtocol.java:458) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.ConnectionProtocol.m_178321_(ConnectionProtocol.java:522) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.PacketDecoder.redirect$bhg000$connectivity$checkDecodingError(PacketDecoder.java:568) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.PacketDecoder.decode(PacketDecoder.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.server.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar%2383!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[28Nov2024 01:13:19.546] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export: ------>
+[28Nov2024 01:13:19.546] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:FriendlyByteBuf 
+[28Nov2024 01:13:19.546] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-112, 25, 0, 0, 0, 0, 0]"
+]
+[28Nov2024 01:13:19.546] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export End: ------>
+[28Nov2024 01:13:19.546] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Decoding error for packet:class net.minecraft.network.protocol.handshake.ClientIntentionPacket
+java.lang.IndexOutOfBoundsException: readerIndex(7) + length(1) exceeds writerIndex(7): PooledUnsafeDirectByteBuf(ridx: 7, widx: 7, cap: 7)
+	at io.netty.buffer.AbstractByteBuf.checkReadableBytes0(AbstractByteBuf.java:1442) ~[netty-buffer-4.1.82.Final.jar%2380!/:4.1.82.Final]
+	at io.netty.buffer.AbstractByteBuf.readByte(AbstractByteBuf.java:730) ~[netty-buffer-4.1.82.Final.jar%2380!/:4.1.82.Final]
+	at net.minecraft.network.FriendlyByteBuf.readByte(FriendlyByteBuf.java:1197) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.FriendlyByteBuf.m_130242_(FriendlyByteBuf.java:527) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.protocol.handshake.ClientIntentionPacket.<init>(ClientIntentionPacket.java:27) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.ConnectionProtocol$PacketSet.m_178327_(ConnectionProtocol.java:459) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.ConnectionProtocol.m_178321_(ConnectionProtocol.java:522) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.PacketDecoder.redirect$bhg000$connectivity$checkDecodingError(PacketDecoder.java:568) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.PacketDecoder.decode(PacketDecoder.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.server.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar%2383!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[28Nov2024 01:13:19.547] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export: ------>
+[28Nov2024 01:13:19.547] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:FriendlyByteBuf 
+[28Nov2024 01:13:19.548] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-112, 25, 0, 0, 0, 0, 0]"
+]
+[28Nov2024 01:13:19.549] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export End: ------>
+[28Nov2024 01:13:20.775] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Decoding error for packet:unknown
+java.lang.IndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.network.ConnectionProtocol$PacketSet.m_178327_(ConnectionProtocol.java:458) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.ConnectionProtocol.m_178321_(ConnectionProtocol.java:522) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.PacketDecoder.redirect$bhg000$connectivity$checkDecodingError(PacketDecoder.java:568) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.PacketDecoder.decode(PacketDecoder.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.server.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar%2383!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[28Nov2024 01:13:20.779] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export: ------>
+[28Nov2024 01:13:20.779] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:FriendlyByteBuf 
+[28Nov2024 01:13:20.780] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[1, 0, 41, 0, 0, 0, 0, 0, 0, 21, 0, 6, 1, 0, 27, 0, 1, 2]"
+]
+[28Nov2024 01:13:20.780] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export End: ------>
+[28Nov2024 01:13:20.780] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[28Nov2024 01:13:20.781] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 41,
+  "f_134721_": "",
+  "f_134722_": 0,
+  "f_134723_": "PLAY",
+  "fmlVersion": "NONE"
+}
+[28Nov2024 01:13:20.781] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 11 extra bytes: 
+[28Nov2024 01:13:20.781] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[0, 0, 21, 0, 6, 1, 0, 27, 0, 1, 2]"
+]
+[28Nov2024 01:13:20.782] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Decoding error for packet:class net.minecraft.network.protocol.handshake.ClientIntentionPacket
+java.lang.IndexOutOfBoundsException: index: 10, length: 21 (expected: range(0, 18))
+	at io.netty.buffer.AbstractByteBuf.checkRangeBounds(AbstractByteBuf.java:1390) ~[netty-buffer-4.1.82.Final.jar%2380!/:4.1.82.Final]
+	at io.netty.buffer.AbstractByteBuf.checkIndex0(AbstractByteBuf.java:1397) ~[netty-buffer-4.1.82.Final.jar%2380!/:4.1.82.Final]
+	at io.netty.buffer.AbstractByteBuf.checkIndex(AbstractByteBuf.java:1384) ~[netty-buffer-4.1.82.Final.jar%2380!/:4.1.82.Final]
+	at io.netty.buffer.UnsafeByteBufUtil.getBytes(UnsafeByteBufUtil.java:481) ~[netty-buffer-4.1.82.Final.jar%2380!/:4.1.82.Final]
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.getBytes(PooledUnsafeDirectByteBuf.java:130) ~[netty-buffer-4.1.82.Final.jar%2380!/:4.1.82.Final]
+	at io.netty.buffer.ByteBufUtil.decodeString(ByteBufUtil.java:1270) ~[netty-buffer-4.1.82.Final.jar%2380!/:4.1.82.Final]
+	at io.netty.buffer.AbstractByteBuf.toString(AbstractByteBuf.java:1246) ~[netty-buffer-4.1.82.Final.jar%2380!/:4.1.82.Final]
+	at net.minecraft.network.FriendlyByteBuf.toString(FriendlyByteBuf.java:1537) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.FriendlyByteBuf.m_130136_(FriendlyByteBuf.java:676) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.protocol.handshake.ClientIntentionPacket.<init>(ClientIntentionPacket.java:25) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.ConnectionProtocol$PacketSet.m_178327_(ConnectionProtocol.java:459) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.ConnectionProtocol.m_178321_(ConnectionProtocol.java:522) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.PacketDecoder.redirect$bhg000$connectivity$checkDecodingError(PacketDecoder.java:568) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.PacketDecoder.decode(PacketDecoder.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:416) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:383) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:366) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:262) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:248) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:241) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:401) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:366) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:262) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:248) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:241) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:81) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.timeout.IdleStateHandler.channelInactive(IdleStateHandler.java:277) ~[netty-handler-4.1.82.Final.jar%2383!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:262) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:248) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:241) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelInactive(DefaultChannelPipeline.java:1405) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:262) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:248) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelInactive(DefaultChannelPipeline.java:901) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:813) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[28Nov2024 01:13:20.785] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export: ------>
+[28Nov2024 01:13:20.785] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:FriendlyByteBuf 
+[28Nov2024 01:13:20.785] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[1, 0, 41, 0, 0, 0, 0, 0, 0, 21, 0, 6, 1, 0, 27, 0, 1, 2]"
+]
+[28Nov2024 01:13:20.786] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export End: ------>
+[28Nov2024 01:13:22.026] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Decoding error for packet:unknown
+java.lang.IndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.network.ConnectionProtocol$PacketSet.m_178327_(ConnectionProtocol.java:458) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.ConnectionProtocol.m_178321_(ConnectionProtocol.java:522) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.PacketDecoder.redirect$bhg000$connectivity$checkDecodingError(PacketDecoder.java:568) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.PacketDecoder.decode(PacketDecoder.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.server.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar%2383!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[28Nov2024 01:13:22.030] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export: ------>
+[28Nov2024 01:13:22.030] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:FriendlyByteBuf 
+[28Nov2024 01:13:22.031] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[1, 0, -62, 0, 0, 1, 0, -70, 0, 0, 0, 1, 0, 0, 113, 0]"
+]
+[28Nov2024 01:13:22.031] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export End: ------>
+[28Nov2024 01:13:22.031] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[28Nov2024 01:13:22.033] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 66,
+  "f_134721_": "",
+  "f_134722_": 256,
+  "fmlVersion": "NONE"
+}
+[28Nov2024 01:13:22.033] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 7 extra bytes: 
+[28Nov2024 01:13:22.034] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[0, 0, 1, 0, 0, 113, 0]"
+]
+[28Nov2024 01:13:22.035] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Decoding error for packet:class net.minecraft.network.protocol.handshake.ClientIntentionPacket
+java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 0
+	at net.minecraftforge.network.NetworkHooks.getFMLVersion(NetworkHooks.java:52) ~[forge-1.20.1-47.3.7-universal.jar%23496!/:?]
+	at net.minecraft.network.protocol.handshake.ClientIntentionPacket.<init>(ClientIntentionPacket.java:28) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.ConnectionProtocol$PacketSet.m_178327_(ConnectionProtocol.java:459) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.ConnectionProtocol.m_178321_(ConnectionProtocol.java:522) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.PacketDecoder.redirect$bhg000$connectivity$checkDecodingError(PacketDecoder.java:568) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.PacketDecoder.decode(PacketDecoder.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.server.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar%2383!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[28Nov2024 01:13:22.036] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export: ------>
+[28Nov2024 01:13:22.036] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:FriendlyByteBuf 
+[28Nov2024 01:13:22.036] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[1, 0, -62, 0, 0, 1, 0, -70, 0, 0, 0, 1, 0, 0, 113, 0]"
+]
+[28Nov2024 01:13:22.036] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export End: ------>
+[28Nov2024 01:13:22.036] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Decoding error for packet:unknown
+java.lang.IndexOutOfBoundsException: Index 3216 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.network.ConnectionProtocol$PacketSet.m_178327_(ConnectionProtocol.java:458) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.ConnectionProtocol.m_178321_(ConnectionProtocol.java:522) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.PacketDecoder.redirect$bhg000$connectivity$checkDecodingError(PacketDecoder.java:568) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.PacketDecoder.decode(PacketDecoder.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.server.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar%2383!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[28Nov2024 01:13:22.038] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export: ------>
+[28Nov2024 01:13:22.038] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:FriendlyByteBuf 
+[28Nov2024 01:13:22.038] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-112, 25, 0, 0, 0, 0, 0]"
+]
+[28Nov2024 01:13:22.038] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export End: ------>
+[28Nov2024 01:13:22.039] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Decoding error for packet:class net.minecraft.network.protocol.handshake.ClientIntentionPacket
+java.lang.IndexOutOfBoundsException: readerIndex(7) + length(1) exceeds writerIndex(7): PooledUnsafeDirectByteBuf(ridx: 7, widx: 7, cap: 7)
+	at io.netty.buffer.AbstractByteBuf.checkReadableBytes0(AbstractByteBuf.java:1442) ~[netty-buffer-4.1.82.Final.jar%2380!/:4.1.82.Final]
+	at io.netty.buffer.AbstractByteBuf.readByte(AbstractByteBuf.java:730) ~[netty-buffer-4.1.82.Final.jar%2380!/:4.1.82.Final]
+	at net.minecraft.network.FriendlyByteBuf.readByte(FriendlyByteBuf.java:1197) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.FriendlyByteBuf.m_130242_(FriendlyByteBuf.java:527) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.protocol.handshake.ClientIntentionPacket.<init>(ClientIntentionPacket.java:27) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.ConnectionProtocol$PacketSet.m_178327_(ConnectionProtocol.java:459) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.ConnectionProtocol.m_178321_(ConnectionProtocol.java:522) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.PacketDecoder.redirect$bhg000$connectivity$checkDecodingError(PacketDecoder.java:568) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at net.minecraft.network.PacketDecoder.decode(PacketDecoder.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.server.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23491!/:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar%2383!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[28Nov2024 01:13:22.041] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export: ------>
+[28Nov2024 01:13:22.043] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:FriendlyByteBuf 
+[28Nov2024 01:13:22.043] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-112, 25, 0, 0, 0, 0, 0]"
+]
+[28Nov2024 01:13:22.043] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export End: ------>
+[28Nov2024 01:15:17.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[28Nov2024 01:15:17.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: e<--[HERE]

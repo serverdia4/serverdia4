@@ -772,3 +772,7 @@
 2024-11-28 00:18:15,632 [Server thread] INFO treasure2 | WorldEventHandler.java:64 | In world load event for dimension ad_astra:mercury_orbit
 2024-11-28 00:18:15,637 [Server thread] INFO treasure2 | WorldEventHandler.java:54 | In world load event
 2024-11-28 00:18:15,637 [Server thread] INFO treasure2 | WorldEventHandler.java:64 | In world load event for dimension ad_astra:moon_orbit
+2024-11-28 01:06:24,624 [Worker-Main-11] INFO treasure2 | WellGenerator.java:207 | CHEATER! Wishing Well at coords: -67 64 1059
+2024-11-28 01:09:40,948 [Worker-Main-10] INFO treasure2 | AbstractTreasureChestBlock.java:162 | AbstractTreasureChestBlock | newBlockEntity | lockStates -> [LockState [slot=LockSlot [index=0, face=NORTH, xOffset=0.5, yOffset=0.6, zOffset=0.05, rotation=0.0], lockItem=null]]
+2024-11-28 01:09:40,949 [Worker-Main-10] INFO treasure2 | AbstractTreasureChestBlock.java:163 | AbstractTreasureChestBlock | newBlockEntity | tileEntity -> mod.gottsch.forge.treasure2.core.block.entity.CrateChestBlockEntity@5379513f @ BlockPos{x=-112, y=93, z=1227}
+2024-11-28 01:09:41,014 [Worker-Main-10] INFO treasure2 | SimpleSurfaceChestFeatureGenerator.java:87 | CHEATER! UNCOMMON chest at coords: -112 93 1227
