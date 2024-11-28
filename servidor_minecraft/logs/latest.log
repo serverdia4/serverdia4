@@ -23140,3 +23140,16 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 1 out of bounds for length
 [28Nov2024 13:49:05.137] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
 [28Nov2024 13:50:56.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [28Nov2024 13:50:56.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: e<--[HERE]
+[28Nov2024 13:54:54.627] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mirsad'/1634, l='ServerLevel[world]', x=326.32, y=59.14, z=280.64] died, message: 'Mirsad drowned'
+[28Nov2024 13:54:54.628] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Mirsad'/1634, l='ServerLevel[world]', x=326.32, y=59.14, z=280.64] died: Mirsad drowned
+[28Nov2024 13:59:32.445] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/markusbordihn/easynpc/data/attribute/EntityAttributeType
+[28Nov2024 13:59:32.455] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/markusbordihn/easynpc/data/sound/SoundType
+[28Nov2024 13:59:32.457] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/6532, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[28Nov2024 13:59:32.458] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/markusbordihn/easynpc/data/dialog/DialogType
+[28Nov2024 13:59:32.459] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/6532, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[28Nov2024 13:59:32.461] [Server thread/INFO] [Easy NPC/]: Finalize spawn for Humanoid['Humanoid'/6532, l='ServerLevel[world]', x=303.50, y=72.00, z=218.50] ...
+[28Nov2024 13:59:32.467] [Server thread/INFO] [Easy NPC/]: Register default action interaction events for Humanoid['Humanoid'/6532, l='ServerLevel[world]', x=303.50, y=72.00, z=218.50] ...
+[28Nov2024 13:59:32.469] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/markusbordihn/easynpc/data/action/ActionDataType
+[28Nov2024 13:59:47.997] [Server thread/INFO] [Easy NPC/]: Opening menu eac62fe3-143f-49a0-9f1e-fa88a1d16ed6 for npc 39d52787-99a5-43c5-9fda-86bbe7866774 and player ServerPlayer['softfer'/726, l='ServerLevel[world]', x=304.32, y=72.00, z=220.14] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[28Nov2024 13:59:47.999] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/markusbordihn/easynpc/data/attribute/BaseAttributeType
+[28Nov2024 13:59:57.588] [Server thread/INFO] [Easy NPC/]: Opening menu f245e4c1-7e03-4c61-a7bd-02c88aa4a5fe for npc 39d52787-99a5-43c5-9fda-86bbe7866774 and player ServerPlayer['softfer'/726, l='ServerLevel[world]', x=306.40, y=72.00, z=217.15] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]

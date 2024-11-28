@@ -2088,73 +2088,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 13:49:26 +0000"
+      "log_spam_fixer": "2024-11-28 13:59:26 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 13:49:26 +0000"
+      "log_spam_fixer": "2024-11-28 13:59:26 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 13:49:26 +0000"
+      "log_spam_fixer": "2024-11-28 13:59:26 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 13:49:26 +0000"
+      "log_spam_fixer": "2024-11-28 13:59:26 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 13:49:26 +0000"
+      "log_spam_fixer": "2024-11-28 13:59:26 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 13:49:26 +0000"
+      "log_spam_fixer": "2024-11-28 13:59:26 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 13:49:26 +0000"
+      "log_spam_fixer": "2024-11-28 13:59:26 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 13:49:26 +0000"
+      "log_spam_fixer": "2024-11-28 13:59:26 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 13:49:26 +0000"
+      "log_spam_fixer": "2024-11-28 13:59:26 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 13:49:26 +0000"
+      "log_spam_fixer": "2024-11-28 13:59:26 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 13:49:26 +0000"
+      "log_spam_fixer": "2024-11-28 13:59:26 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 13:49:26 +0000"
+      "log_spam_fixer": "2024-11-28 13:59:26 +0000"
     },
     "done": false
   },
@@ -2278,6 +2278,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/food/super_treat": {
+    "criteria": {
+      "has_golden_apple": "2024-11-28 13:53:18 +0000"
+    },
+    "done": true
+  },
   "nameless_trinkets:obtain/root": {
     "criteria": {
       "obtain": "2024-11-28 12:39:46 +0000"
@@ -2332,6 +2338,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/crossbow_upgrade": {
+    "criteria": {
+      "has_bow": "2024-11-28 13:53:31 +0000"
+    },
+    "done": true
+  },
   "beautify:progression/bookstack": {
     "criteria": {
       "obtain": "2024-11-28 12:49:31 +0000"
@@ -2368,6 +2380,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/bow_upgrade": {
+    "criteria": {
+      "has_arrow": "2024-11-28 13:53:32 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/warrior_upgrade": {
     "criteria": {
       "has_block": "2024-11-28 13:34:08 +0000"
@@ -2389,6 +2407,12 @@
   "rats:recipes/misc/upgrades/aquatic_upgrade": {
     "criteria": {
       "has_feesh": "2024-11-28 12:30:17 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/chef_upgrade": {
+    "criteria": {
+      "has_apple": "2024-11-28 13:53:18 +0000"
     },
     "done": true
   },
@@ -2656,6 +2680,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/damage_protection_upgrade": {
+    "criteria": {
+      "has_apple": "2024-11-28 13:53:18 +0000"
+    },
+    "done": true
+  },
   "nameless_trinkets:obtain/tear_of_the_sea": {
     "criteria": {
       "tear_of_the_sea": "2024-11-28 12:40:05 +0000"
@@ -2683,6 +2713,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2024-11-28 12:52:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/crossbow_repairing": {
+    "criteria": {
+      "has_crossbow": "2024-11-28 13:53:31 +0000"
     },
     "done": true
   },
