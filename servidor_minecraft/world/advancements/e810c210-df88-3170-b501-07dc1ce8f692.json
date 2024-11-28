@@ -1641,15 +1641,20 @@
       "vinery:stal_wine": "2024-11-28 01:39:30 +0000",
       "vinery:bottle_mojang_noir": "2024-11-28 21:22:29 +0000",
       "vinery:magnetic_wine": "2024-11-28 01:40:59 +0000",
+      "vinery:bolvar_wine": "2024-11-28 21:23:59 +0000",
       "vinery:mead": "2024-11-28 12:27:17 +0000",
       "vinery:cristel_wine": "2024-11-28 21:22:44 +0000",
       "vinery:jo_special_mixture": "2024-11-28 01:41:54 +0000",
       "vinery:creepers_crush": "2024-11-28 01:41:52 +0000",
+      "vinery:clark_wine": "2024-11-28 21:23:56 +0000",
       "vinery:apple_cider": "2024-11-28 01:41:02 +0000",
+      "vinery:aegis_wine": "2024-11-28 21:23:57 +0000",
       "vinery:mellohi_wine": "2024-11-28 01:39:30 +0000",
       "vinery:eiswein": "2024-11-28 21:22:26 +0000",
       "vinery:red_wine": "2024-11-28 01:41:04 +0000",
       "vinery:lilitu_wine": "2024-11-28 01:39:29 +0000",
+      "vinery:strad_wine": "2024-11-28 21:24:07 +0000",
+      "vinery:solaris_wine": "2024-11-28 21:24:04 +0000",
       "vinery:knulp_wine": "2024-11-28 01:41:53 +0000",
       "vinery:noir_wine": "2024-11-28 01:41:00 +0000",
       "vinery:jellie_wine": "2024-11-28 01:41:05 +0000",
@@ -2661,73 +2666,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 21:23:04 +0000"
+      "log_spam_fixer": "2024-11-28 21:52:04 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 21:23:04 +0000"
+      "log_spam_fixer": "2024-11-28 21:52:04 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 21:23:04 +0000"
+      "log_spam_fixer": "2024-11-28 21:52:04 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 21:23:04 +0000"
+      "log_spam_fixer": "2024-11-28 21:52:04 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 21:23:04 +0000"
+      "log_spam_fixer": "2024-11-28 21:52:04 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 21:23:04 +0000"
+      "log_spam_fixer": "2024-11-28 21:52:04 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 21:23:04 +0000"
+      "log_spam_fixer": "2024-11-28 21:52:04 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 21:23:04 +0000"
+      "log_spam_fixer": "2024-11-28 21:52:04 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 21:23:04 +0000"
+      "log_spam_fixer": "2024-11-28 21:52:04 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 21:23:04 +0000"
+      "log_spam_fixer": "2024-11-28 21:52:04 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 21:23:04 +0000"
+      "log_spam_fixer": "2024-11-28 21:52:04 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 21:23:04 +0000"
+      "log_spam_fixer": "2024-11-28 21:52:04 +0000"
     },
     "done": false
   },
@@ -2800,6 +2805,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2024-11-28 19:34:05 +0000"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/fate_emerald": {
+    "criteria": {
+      "fate_emerald": "2024-11-28 21:32:43 +0000"
     },
     "done": true
   },
@@ -3319,6 +3330,12 @@
     },
     "done": true
   },
+  "nameless_trinkets:obtain/blindfold": {
+    "criteria": {
+      "blindfold": "2024-11-28 21:31:49 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/decorations/gilded_beads": {
     "criteria": {
       "has_gold_ingot": "2024-11-28 19:34:05 +0000"
@@ -3358,6 +3375,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2024-11-28 19:40:50 +0000"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/dragons_eye": {
+    "criteria": {
+      "dragons_eye": "2024-11-28 21:31:55 +0000"
     },
     "done": true
   },
@@ -3613,6 +3636,18 @@
     },
     "done": true
   },
+  "nameless_trinkets:obtain/light_gloves": {
+    "criteria": {
+      "light_gloves": "2024-11-28 21:31:51 +0000"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/rage_mind": {
+    "criteria": {
+      "rage_mind": "2024-11-28 21:31:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/lime_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2024-11-28 19:30:17 +0000"
@@ -3688,6 +3723,12 @@
   "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass": {
     "criteria": {
       "has_glass": "2024-11-28 19:40:50 +0000"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/four_leaf_clover": {
+    "criteria": {
+      "four_leaf_clover": "2024-11-28 21:31:56 +0000"
     },
     "done": true
   },
@@ -3952,6 +3993,12 @@
   "exposure:recipes/tools/color_film": {
     "criteria": {
       "has_camera": "2024-11-28 20:45:43 +0000"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/missing_page": {
+    "criteria": {
+      "missing_page": "2024-11-28 21:31:37 +0000"
     },
     "done": true
   },
