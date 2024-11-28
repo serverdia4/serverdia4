@@ -653,73 +653,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 02:04:02 +0000"
+      "log_spam_fixer": "2024-11-28 02:54:02 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 02:04:02 +0000"
+      "log_spam_fixer": "2024-11-28 02:54:02 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 02:04:02 +0000"
+      "log_spam_fixer": "2024-11-28 02:54:02 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 02:04:02 +0000"
+      "log_spam_fixer": "2024-11-28 02:54:02 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 02:04:02 +0000"
+      "log_spam_fixer": "2024-11-28 02:54:02 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 02:04:02 +0000"
+      "log_spam_fixer": "2024-11-28 02:54:02 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 02:04:02 +0000"
+      "log_spam_fixer": "2024-11-28 02:54:02 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 02:04:02 +0000"
+      "log_spam_fixer": "2024-11-28 02:54:02 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 02:04:02 +0000"
+      "log_spam_fixer": "2024-11-28 02:54:02 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 02:04:02 +0000"
+      "log_spam_fixer": "2024-11-28 02:54:02 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 02:04:02 +0000"
+      "log_spam_fixer": "2024-11-28 02:54:02 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 02:04:02 +0000"
+      "log_spam_fixer": "2024-11-28 02:54:02 +0000"
     },
     "done": false
   },
@@ -771,6 +771,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2024-11-28 02:37:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-11-28 00:27:08 +0000"
@@ -780,6 +786,18 @@
   "refurbished_furniture:recipes/misc/constructing/black_kitchen_cabinetry": {
     "criteria": {
       "has_wooden_kitchen_cabinetry": "2024-11-28 01:52:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-11-28 02:38:40 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/gunpowder": {
+    "criteria": {
+      "gunpowder": "2024-11-28 02:44:45 +0000"
     },
     "done": true
   },
@@ -849,9 +867,27 @@
     },
     "done": false
   },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2024-11-28 02:35:44 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/combat/wool_helmet": {
     "criteria": {
       "has_wool": "2024-11-28 01:33:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2024-11-28 02:29:38 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/scorched/newborn_cyst": {
+    "criteria": {
+      "newborn_cyst": "2024-11-28 02:09:37 +0000"
     },
     "done": true
   },
@@ -948,6 +984,18 @@
   "farmersdelight:recipes/food/potato_from_crate": {
     "criteria": {
       "has_potato_crate": "2024-11-28 02:02:53 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/tnt_upgrade": {
+    "criteria": {
+      "has_gunpowder": "2024-11-28 02:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-11-28 02:44:45 +0000"
     },
     "done": true
   },
@@ -1113,6 +1161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2024-11-28 02:29:38 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bamboo_spikes": {
     "criteria": {
       "minecraft:wooden_slabs": "2024-11-28 01:34:47 +0000"
@@ -1197,6 +1251,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/deku_leaf": {
+    "criteria": {
+      "has_paragliders": "2024-11-28 02:35:44 +0000"
+    },
+    "done": true
+  },
   "scguns:main/scorched/astella": {
     "criteria": {
       "astella": "2024-11-28 01:33:52 +0000"
@@ -1226,6 +1286,12 @@
       "has_wool": "2024-11-28 01:33:56 +0000"
     },
     "done": true
+  },
+  "harmful_smoke:firsttime": {
+    "criteria": {
+      "firsttime_1": "2024-11-28 02:39:37 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/blue_kitchen_cabinetry": {
     "criteria": {
@@ -1278,6 +1344,12 @@
   "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-11-28 00:38:10 +0000"
+    },
+    "done": true
+  },
+  "beautify:botanist_workbench": {
+    "criteria": {
+      "requirement": "2024-11-28 02:20:02 +0000"
     },
     "done": true
   },
@@ -1398,6 +1470,12 @@
   "minecraft:recipes/building_blocks/quartz_bricks": {
     "criteria": {
       "has_quartz_block": "2024-11-28 01:30:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/spring_launcher": {
+    "criteria": {
+      "has_gunpowder": "2024-11-28 02:44:45 +0000"
     },
     "done": true
   },
@@ -1581,6 +1659,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/bamboo_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-11-28 02:37:56 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/misc/crafting/smokestack_long": {
     "criteria": {
       "has_item": "2024-11-28 01:54:23 +0000"
@@ -1674,6 +1758,12 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_toilet": {
     "criteria": {
       "has_quartz_block": "2024-11-28 01:30:03 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/silver_bomb": {
+    "criteria": {
+      "has_gunpowder": "2024-11-28 02:44:45 +0000"
     },
     "done": true
   },
@@ -1989,6 +2079,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/paraglider": {
+    "criteria": {
+      "has_paragliders": "2024-11-28 02:35:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2024-11-28 01:33:56 +0000"
@@ -2022,6 +2118,12 @@
   "handcrafted:recipes/misc/wood_bowl": {
     "criteria": {
       "has_wood_bowl": "2024-11-28 01:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-11-28 02:44:45 +0000"
     },
     "done": true
   },
