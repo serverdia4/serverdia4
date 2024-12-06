@@ -12117,3 +12117,9 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 12722 out of bounds for le
 [06Dec2024 15:50:32.028] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
 [06Dec2024 15:50:42.251] [Worker-Main-10/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mod/gottsch/forge/treasure2/core/biome/TreasureBiomeHelper$Result
 [06Dec2024 15:51:02.069] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[06Dec2024 15:54:09.626] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting weather2/weathersystem/storm/WeatherObjectParticleStorm$StormType
+[06Dec2024 16:00:17.277] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/networking/IMPPackets$MusicSyncType
+[06Dec2024 16:00:17.293] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/server/music/MusicManager$PlayListGetType
+[06Dec2024 16:00:17.294] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/music/resource/AuthorityInfo$AuthorityType
+[06Dec2024 16:01:22.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[06Dec2024 16:01:22.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: e<--[HERE]
