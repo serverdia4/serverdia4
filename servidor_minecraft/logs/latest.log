@@ -18135,3 +18135,25 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 1 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
 	... 28 more
+[09Dec2024 20:16:04.769] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[09Dec2024 20:20:18.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [softfer: Killed all storms]
+[09Dec2024 20:27:11.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: softfer moved too quickly! -18.578243114189775,-2.176876841773236,0.5771692906819794
+[09Dec2024 20:27:33.855] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[09Dec2024 20:30:02.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: softfer has made the advancement [Minecraft Comes Alive]
+[09Dec2024 20:30:24.303] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[09Dec2024 20:32:00.714] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3161ms or 63 ticks behind
+[09Dec2024 20:32:01.905] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[09Dec2024 20:32:47.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: softfer has made the advancement [Scarlet Temptation]
+[09Dec2024 20:35:54.244] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: softfer/evergreen_portal.nbt
+[09Dec2024 20:36:12.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[09Dec2024 20:36:12.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: e<--[HERE]
+[09Dec2024 20:36:35.532] [pool-17-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / blue_skies:village_slushlands], ResourceKey[minecraft:worldgen/structure / blue_skies:village_shaded_woodlands], ResourceKey[minecraft:worldgen/structure / blue_skies:village_crystal_dunes], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / blue_skies:village_brightlands], ResourceKey[minecraft:worldgen/structure / blue_skies:village_sunset_maple_forest]] from pos BlockPos{x=651, y=74, z=965}
+[09Dec2024 20:36:35.536] [pool-17-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[09Dec2024 20:36:40.313] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4960ms or 99 ticks behind
+[09Dec2024 20:36:57.981] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2678ms or 53 ticks behind
+[09Dec2024 20:37:10.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [softfer: Changed the block at 591, 73, 785]
+[09Dec2024 20:37:17.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [softfer: Set the time to 1000]
+[09Dec2024 20:37:17.840] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -132412 Ticks
+[09Dec2024 20:39:43.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: softfer has made the advancement [Wild Grapes]
+[09Dec2024 20:41:11.529] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Tatjana'/165, l='ServerLevel[world]', x=410.73, y=61.40, z=249.73] died, message: 'Tatjana drowned'
+[09Dec2024 20:41:11.531] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Tatjana'/165, l='ServerLevel[world]', x=410.73, y=61.40, z=249.73] died: Tatjana drowned

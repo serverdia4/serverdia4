@@ -4908,73 +4908,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-09 20:12:05 +0000"
+      "log_spam_fixer": "2024-12-09 20:42:18 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-09 20:12:05 +0000"
+      "log_spam_fixer": "2024-12-09 20:42:18 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-09 20:12:05 +0000"
+      "log_spam_fixer": "2024-12-09 20:42:18 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-09 20:12:05 +0000"
+      "log_spam_fixer": "2024-12-09 20:42:18 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-09 20:12:05 +0000"
+      "log_spam_fixer": "2024-12-09 20:42:18 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-09 20:12:05 +0000"
+      "log_spam_fixer": "2024-12-09 20:42:18 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-09 20:12:05 +0000"
+      "log_spam_fixer": "2024-12-09 20:42:18 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-09 20:12:05 +0000"
+      "log_spam_fixer": "2024-12-09 20:42:18 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-09 20:12:05 +0000"
+      "log_spam_fixer": "2024-12-09 20:42:18 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-09 20:12:05 +0000"
+      "log_spam_fixer": "2024-12-09 20:42:18 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-09 20:12:05 +0000"
+      "log_spam_fixer": "2024-12-09 20:42:18 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-09 20:12:05 +0000"
+      "log_spam_fixer": "2024-12-09 20:42:18 +0000"
     },
     "done": false
   },
@@ -5014,6 +5014,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2024-12-09 20:17:29 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/bowtie": {
     "criteria": {
       "has_string": "2024-12-09 19:46:11 +0000"
@@ -5023,6 +5029,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
     "criteria": {
       "has_polished_blackstone": "2024-12-09 19:16:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2024-12-09 20:17:29 +0000"
     },
     "done": true
   },
@@ -5053,6 +5065,12 @@
   "domum_ornamentum:recipes/decorations/green_floating_carpet": {
     "criteria": {
       "has_string": "2024-12-09 19:46:11 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/rat_seed_bowl": {
+    "criteria": {
+      "has_seeds": "2024-12-09 20:39:42 +0000"
     },
     "done": true
   },
@@ -5098,6 +5116,18 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/farmer_upgrade": {
+    "criteria": {
+      "has_seeds": "2024-12-09 20:39:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2024-12-09 20:32:47 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/bottler_upgrade": {
     "criteria": {
       "has_string": "2024-12-09 19:46:11 +0000"
@@ -5134,9 +5164,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-09 20:17:29 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/cracked_lunar_stonebrick_from_smelting_lunar_stonebrick": {
     "criteria": {
       "has_item": "2024-12-09 19:50:05 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_taiga": "2024-12-09 20:30:02 +0000"
     },
     "done": true
   },
@@ -5206,9 +5248,27 @@
     },
     "done": true
   },
+  "vinery:main/wild_crops": {
+    "criteria": {
+      "red_grape_seeds": "2024-12-09 20:39:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2024-12-09 19:46:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2024-12-09 20:17:29 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/stone_bricks": {
+    "criteria": {
+      "has_copper_block": "2024-12-09 20:17:29 +0000"
     },
     "done": true
   },
@@ -5308,9 +5368,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-09 20:17:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-12-09 19:16:07 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/breeder_upgrade": {
+    "criteria": {
+      "has_seeds": "2024-12-09 20:39:42 +0000"
     },
     "done": true
   },
@@ -5368,6 +5440,12 @@
     },
     "done": true
   },
+  "vinery:main/get_apple": {
+    "criteria": {
+      "apple": "2024-12-09 20:32:47 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/locator_orb_ko": {
     "criteria": {
       "has_string": "2024-12-09 19:46:11 +0000"
@@ -5422,6 +5500,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-09 20:17:29 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/decorations/gray_floating_carpet": {
     "criteria": {
       "has_string": "2024-12-09 19:46:11 +0000"
@@ -5431,6 +5515,12 @@
   "refurbished_furniture:recipes/misc/constructing/brown_trampoline": {
     "criteria": {
       "has_string": "2024-12-09 19:46:11 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/apple_juice": {
+    "criteria": {
+      "has_apple": "2024-12-09 20:32:47 +0000"
     },
     "done": true
   },
@@ -5491,6 +5581,18 @@
   "blue_skies:recipes/building_blocks/turquoise_stonebrick_stairs_stonecutting_turquoise_stonebrick": {
     "criteria": {
       "has_item": "2024-12-09 20:07:06 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-09 20:17:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-09 20:17:29 +0000"
     },
     "done": true
   },
@@ -5566,6 +5668,18 @@
     },
     "done": true
   },
+  "vinery:main/crop_collector": {
+    "criteria": {
+      "vinery:red_grape_seeds": "2024-12-09 20:39:43 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-09 20:17:29 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/decorations/black_floating_carpet": {
     "criteria": {
       "has_string": "2024-12-09 19:46:11 +0000"
@@ -5608,6 +5722,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-09 20:17:29 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/hammocks/rat_hammock_black": {
     "criteria": {
       "has_string": "2024-12-09 19:46:11 +0000"
@@ -5617,6 +5737,18 @@
   "blue_skies:recipes/building_blocks/cracked_turquoise_stonebrick_from_smelting_turquoise_stonebrick": {
     "criteria": {
       "has_item": "2024-12-09 20:07:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-09 20:17:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-09 20:17:29 +0000"
     },
     "done": true
   },
@@ -5641,6 +5773,12 @@
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2024-12-09 19:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-09 20:17:29 +0000"
     },
     "done": true
   },
@@ -5683,6 +5821,18 @@
   "doggytalents:recipes/decorations/wool_collar_thicc": {
     "criteria": {
       "has_string": "2024-12-09 19:46:11 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/replanter_upgrade": {
+    "criteria": {
+      "has_seeds": "2024-12-09 20:39:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-09 20:17:29 +0000"
     },
     "done": true
   },
@@ -5749,6 +5899,12 @@
   "rats:recipes/misc/hammocks/rat_hammock_pink": {
     "criteria": {
       "has_string": "2024-12-09 19:46:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-09 20:17:29 +0000"
     },
     "done": true
   },
