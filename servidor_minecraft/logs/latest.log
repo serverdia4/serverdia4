@@ -2851,3 +2851,17 @@ Caused by: java.lang.ClassCastException: class com.sk89q.worldedit.util.Directio
 [09Dec2024 22:50:35.382] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mod/gottsch/forge/treasure2/core/biome/TreasureBiomeHelper$Result
 [09Dec2024 22:50:37.283] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3589ms or 71 ticks behind
 [09Dec2024 22:50:46.396] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/moonlight/api/util/PotionNBTHelper$Type
+[09Dec2024 22:54:16.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[09Dec2024 22:54:16.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: e<--[HERE]
+[09Dec2024 22:56:52.911] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
+[09Dec2024 23:08:02.194] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting weather2/weathersystem/storm/WeatherObjectParticleStorm$StormType
+[09Dec2024 23:16:09.114] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/188, l='ServerLevel[world]', x=328.70, y=73.50, z=213.59] died, message: 'Armorer hit the ground too hard'
+[09Dec2024 23:19:53.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [softfer: Killed all storms]
+[09Dec2024 23:21:01.539] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/event/platform/Interaction
+[09Dec2024 23:21:06.508] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/util/formatting/text/event/HoverEvent$Action
+[09Dec2024 23:21:06.545] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/util/formatting/text/format/Style$Merge$Strategy
+[09Dec2024 23:21:09.378] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[09Dec2024 23:21:27.269] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting earth/terrarium/cadmus/api/claims/InteractionType
+[09Dec2024 23:21:42.685] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/internal/command/CommandArgParser$State
+[09Dec2024 23:21:54.343] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/EditSession$Stage
+[09Dec2024 23:21:54.346] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/extent/reorder/MultiStageReorder$PlacementPriority
