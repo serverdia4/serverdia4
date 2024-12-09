@@ -27021,3 +27021,19 @@ Caused by: java.lang.IndexOutOfBoundsException: readerIndex(7) + length(1) excee
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
 	... 28 more
 [09Dec2024 14:47:06.683] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[09Dec2024 14:51:07.486] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: softfer/aether_portal.nbt
+[09Dec2024 14:52:50.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [softfer: Killed all storms]
+[09Dec2024 14:55:57.412] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/SetBlockCommand$Mode
+[09Dec2024 14:55:57.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [softfer: Changed the block at -261, 85, -151]
+[09Dec2024 14:56:18.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [softfer: Changed the block at -261, 85, -151]
+[09Dec2024 14:57:03.881] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/schematics/SchematicPrinter$PrintStage
+[09Dec2024 15:00:49.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [softfer: Set the time to 1000]
+[09Dec2024 15:00:49.121] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -35410 Ticks
+[09Dec2024 15:01:41.043] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/util/formatting/text/event/HoverEvent$Action
+[09Dec2024 15:01:41.072] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/util/io/file/AttributeTarget
+[09Dec2024 15:01:41.120] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/util/formatting/text/format/Style$Merge$Strategy
+[09Dec2024 15:01:52.560] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-353, y=81, z=-360} but found not block entity block Block{minecraft:air} at location
+[09Dec2024 15:01:52.561] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-353, y=81, z=-360}
+[09Dec2024 15:02:40.913] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/internal/command/CommandArgParser$State
+[09Dec2024 15:02:57.293] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/EditSession$Stage
+[09Dec2024 15:02:57.295] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/extent/reorder/MultiStageReorder$PlacementPriority
