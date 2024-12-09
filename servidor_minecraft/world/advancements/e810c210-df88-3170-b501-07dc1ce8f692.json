@@ -3952,75 +3952,99 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-09 14:07:24 +0000"
+      "log_spam_fixer": "2024-12-09 14:17:44 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-09 14:07:24 +0000"
+      "log_spam_fixer": "2024-12-09 14:17:44 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-09 14:07:24 +0000"
+      "log_spam_fixer": "2024-12-09 14:17:44 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-09 14:07:24 +0000"
+      "log_spam_fixer": "2024-12-09 14:17:44 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-09 14:07:24 +0000"
+      "log_spam_fixer": "2024-12-09 14:17:44 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-09 14:07:24 +0000"
+      "log_spam_fixer": "2024-12-09 14:17:44 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-09 14:07:24 +0000"
+      "log_spam_fixer": "2024-12-09 14:17:44 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-09 14:07:24 +0000"
+      "log_spam_fixer": "2024-12-09 14:17:44 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-09 14:07:24 +0000"
+      "log_spam_fixer": "2024-12-09 14:17:44 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-09 14:07:24 +0000"
+      "log_spam_fixer": "2024-12-09 14:17:44 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-09 14:07:24 +0000"
+      "log_spam_fixer": "2024-12-09 14:17:44 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-09 14:07:24 +0000"
+      "log_spam_fixer": "2024-12-09 14:17:44 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2024-12-09 14:14:38 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_blue": {
+    "criteria": {
+      "has_light_blue_wool": "2024-12-09 14:14:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_light_blue": {
+    "criteria": {
+      "has_light_blue_wool": "2024-12-09 14:14:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_blue_sheet": {
+    "criteria": {
+      "has_light_blue_sheet": "2024-12-09 14:14:38 +0000"
+    },
+    "done": true
   },
   "dungeons_arise:find_mechanical_nest": {
     "criteria": {
@@ -4028,9 +4052,51 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/light_blue_flag": {
+    "criteria": {
+      "has_light_blue_flag": "2024-12-09 14:14:38 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_blue": {
+    "criteria": {
+      "has_light_blue_wool": "2024-12-09 14:14:38 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_light_blue": {
+    "criteria": {
+      "has_wool": "2024-12-09 14:14:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_blue_cushion": {
+    "criteria": {
+      "has_light_blue_cushion": "2024-12-09 14:14:38 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2024-12-09 14:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2024-12-09 14:14:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2024-12-09 14:14:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/blue_cape_light_blue_wool": {
+    "criteria": {
+      "has_light_blue_wool": "2024-12-09 14:14:38 +0000"
     },
     "done": true
   },
