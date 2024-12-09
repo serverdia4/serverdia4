@@ -14785,3 +14785,13 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 1177361 out of bounds for 
 [09Dec2024 19:13:54.972] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/SetBlockCommand$Mode
 [09Dec2024 19:13:54.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [softfer: Changed the block at 923, 68, -177]
 [09Dec2024 19:15:04.749] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/function/operation/ChangeSetExecutor$Type
+[09Dec2024 19:16:38.786] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Cveta'/65, l='ServerLevel[world]', x=319.72, y=59.29, z=275.52] died, message: 'Cveta drowned'
+[09Dec2024 19:16:38.788] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Cveta'/65, l='ServerLevel[world]', x=319.72, y=59.29, z=275.52] died: Cveta drowned
+[09Dec2024 19:25:54.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[09Dec2024 19:25:54.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: e<--[HERE]
+[09Dec2024 19:35:08.700] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/moonlight/api/util/PotionNBTHelper$Type
+[09Dec2024 19:35:45.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[09Dec2024 19:35:45.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: e<--[HERE]
+[09Dec2024 19:41:29.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[09Dec2024 19:41:49.009] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2106ms or 42 ticks behind
+[09Dec2024 19:43:37.639] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: softfer/el_rojo_portal.nbt
