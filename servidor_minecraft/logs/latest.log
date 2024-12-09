@@ -5997,3 +5997,33 @@ java.lang.IndexOutOfBoundsException: readerIndex(7) + length(1) exceeds writerIn
 [09Dec2024 00:19:57.717] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=448, y=-32, z=-329}
 [09Dec2024 00:20:27.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: softfer moved too quickly! -13.824946926739244,-2.471297939799456,-10.496571642176548
 [09Dec2024 00:20:27.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2263ms or 45 ticks behind
+[09Dec2024 00:22:00.547] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/event/platform/Interaction
+[09Dec2024 00:22:00.551] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting earth/terrarium/cadmus/api/claims/InteractionType
+[09Dec2024 00:24:46.543] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting weather2/weathersystem/storm/WeatherObjectParticleStorm$StormType
+[09Dec2024 00:25:34.497] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jorgebersek[/127.183.55.69:58305] logged in with entity id 5941 at (304.5, 72.0, 284.5)
+[09Dec2024 00:25:34.519] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to jorgebersek
+[09Dec2024 00:25:34.519] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to jorgebersek
+[09Dec2024 00:25:34.520] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to jorgebersek
+[09Dec2024 00:25:34.520] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to jorgebersek
+[09Dec2024 00:25:34.522] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to jorgebersek
+[09Dec2024 00:25:34.525] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to jorgebersek
+[09Dec2024 00:25:34.526] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to jorgebersek
+[09Dec2024 00:25:34.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jorgebersek joined the game
+[09Dec2024 00:25:34.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jorgebersek has made the advancement [Ice and Fire]
+[09Dec2024 00:25:34.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jorgebersek has completed the challenge [The Undead]
+[09Dec2024 00:25:34.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jorgebersek has made the advancement [Terramity]
+[09Dec2024 00:25:35.501] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: softfer moved too quickly! -14.444982792408439,6.598332398200299,8.864143075502625
+[09Dec2024 00:25:41.479] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of jorgebersek (18)
+[09Dec2024 00:25:41.480] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to jorgebersek
+[09Dec2024 00:26:00.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jorgebersek has reached the goal [Sky's the Limit]
+[09Dec2024 00:26:38.463] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/authlib/exceptions/MinecraftClientException$ErrorType
+[09Dec2024 00:26:39.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jorgebersersek a server operator
+[09Dec2024 00:29:15.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jorgeberserk a server operator
+[09Dec2024 00:29:15.320] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2728ms or 54 ticks behind
+[09Dec2024 00:29:55.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[09Dec2024 00:29:55.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: opjorgebersek<--[HERE]
+[09Dec2024 00:30:07.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jorgebersek a server operator
+[09Dec2024 00:31:31.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jorgebersek: Set own game mode to Creative Mode]
+[09Dec2024 00:31:51.727] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jorgebersek lost connection: Disconnected
+[09Dec2024 00:31:51.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jorgebersek left the game
+[09Dec2024 00:31:51.729] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client jorgebersek

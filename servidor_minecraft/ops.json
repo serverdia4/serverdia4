@@ -4,5 +4,23 @@
     "name": "softfer",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ee0d8d03-c69e-349b-8c8b-d96e72f43b01",
+    "name": "jorgebersersek",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "48454f8d-fb7d-3fed-bd95-309e8a2f096c",
+    "name": "jorgebersek",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "4329306a-1dda-3cec-9c03-68f5c8510cb0",
+    "name": "jorgeberserk",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
