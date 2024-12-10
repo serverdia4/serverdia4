@@ -24363,3 +24363,35 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 1 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
 	... 28 more
+[10Dec2024 12:56:13.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: softfer has made the advancement [The End?]
+[10Dec2024 12:56:13.347] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[10Dec2024 12:56:15.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2612ms or 52 ticks behind
+[10Dec2024 12:56:38.774] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
+[10Dec2024 12:56:38.775] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
+[10Dec2024 12:56:51.653] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20810ms or 416 ticks behind
+[10Dec2024 12:57:05.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: softfer was kicked for floating too long!
+[10Dec2024 12:57:05.087] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: softfer lost connection: Disconnected
+[10Dec2024 12:57:05.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: softfer left the game
+[10Dec2024 12:57:05.093] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client softfer
+[10Dec2024 12:57:05.118] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Dec2024 12:57:18.823] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: softfer[/127.82.223.232:50923] logged in with entity id 9220 at (100.2505408901921, -93.94581400271291, -10.658997458738291)
+[10Dec2024 12:57:18.845] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to softfer
+[10Dec2024 12:57:18.845] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to softfer
+[10Dec2024 12:57:18.846] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to softfer
+[10Dec2024 12:57:18.846] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to softfer
+[10Dec2024 12:57:18.848] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to softfer
+[10Dec2024 12:57:18.851] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to softfer
+[10Dec2024 12:57:18.852] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to softfer
+[10Dec2024 12:57:18.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: softfer joined the game
+[10Dec2024 12:57:19.684] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of softfer (18)
+[10Dec2024 12:57:19.685] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to softfer
+[10Dec2024 12:57:20.636] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[10Dec2024 12:57:20.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: softfer fell out of the world
+[10Dec2024 12:58:04.473] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[10Dec2024 12:58:35.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [softfer: Set the time to 1000]
+[10Dec2024 12:58:36.028] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -37097 Ticks
+[10Dec2024 12:58:50.661] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ordana/immersive_weathering/network/SendCustomParticlesPacket$EventType
+[10Dec2024 13:03:39.635] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/moonlight/api/util/PotionNBTHelper$Type
+[10Dec2024 13:03:56.980] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[10Dec2024 13:04:25.540] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[10Dec2024 13:04:29.453] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mod/gottsch/forge/treasure2/core/biome/TreasureBiomeHelper$Result

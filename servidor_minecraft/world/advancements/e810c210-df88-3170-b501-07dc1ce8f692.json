@@ -6064,153 +6064,33 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 12:50:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 12:50:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 12:50:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 12:50:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 12:50:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 12:50:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 12:50:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 12:50:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 12:50:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 12:50:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 12:50:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 12:50:18 +0000"
-    },
-    "done": false
-  },
-  "galosphere:recipes/building_blocks/amethyst_slab": {
-    "criteria": {
-      "has_amethyst_block": "2024-12-10 12:13:05 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/demon_upgrade": {
-    "criteria": {
-      "has_obsidian": "2024-12-10 12:07:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_slab": {
-    "criteria": {
-      "has_prismarine": "2024-12-10 11:50:52 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/smooth_amethyst": {
-    "criteria": {
-      "has_amethyst_block": "2024-12-10 12:13:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2024-12-10 12:07:20 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/amethyst_brick_stairs_from_amethyst_block_stonecutting": {
-    "criteria": {
-      "has_amethyst_block": "2024-12-10 12:13:05 +0000"
-    },
-    "done": true
-  },
-  "create:wrench_goggles": {
-    "criteria": {
-      "0": "2024-12-10 12:48:16 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2024-12-10 12:07:20 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/amethyst_bricks_from_amethyst_block_stonecutting": {
-    "criteria": {
-      "has_amethyst_block": "2024-12-10 12:13:05 +0000"
-    },
-    "done": true
-  },
   "rats:recipes/tools/rat_flute": {
     "criteria": {
       "has_cotta": "2024-12-10 11:41:08 +0000"
     },
     "done": true
   },
-  "galosphere:recipes/building_blocks/smooth_amethyst_slab_from_amethyst_block_stonecutting": {
+  "minecraft:recipes/decorations/green_glazed_terracotta": {
     "criteria": {
-      "has_amethyst_block": "2024-12-10 12:13:05 +0000"
+      "has_green_terracotta": "2024-12-10 11:41:08 +0000"
     },
     "done": true
   },
-  "galosphere:recipes/building_blocks/amethyst_brick_slab_from_amethyst_block_stonecutting": {
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
     "criteria": {
-      "has_amethyst_block": "2024-12-10 12:13:05 +0000"
+      "has_light_blue_terracotta": "2024-12-10 11:46:56 +0000"
     },
     "done": true
   },
-  "create:super_glue": {
+  "minecraft:recipes/decorations/lime_glazed_terracotta": {
     "criteria": {
-      "0": "2024-12-10 12:15:51 +0000"
+      "has_lime_terracotta": "2024-12-10 11:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2024-12-10 11:50:52 +0000"
     },
     "done": true
   },
@@ -6232,27 +6112,81 @@
     },
     "done": true
   },
-  "galosphere:recipes/building_blocks/amethyst_slab_from_amethyst_block_stonecutting": {
-    "criteria": {
-      "has_amethyst_block": "2024-12-10 12:13:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/prismarine_wall": {
     "criteria": {
       "has_prismarine": "2024-12-10 11:50:52 +0000"
     },
     "done": true
   },
-  "galosphere:recipes/building_blocks/smooth_amethyst_from_amethyst_block_stonecutting": {
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2024-12-10 11:50:52 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/demon_upgrade": {
+    "criteria": {
+      "has_obsidian": "2024-12-10 12:07:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-10 12:07:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-12-10 12:07:20 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_slab": {
     "criteria": {
       "has_amethyst_block": "2024-12-10 12:13:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/green_glazed_terracotta": {
+  "galosphere:recipes/building_blocks/smooth_amethyst": {
     "criteria": {
-      "has_green_terracotta": "2024-12-10 11:41:08 +0000"
+      "has_amethyst_block": "2024-12-10 12:13:05 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_brick_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-10 12:13:05 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_bricks_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-10 12:13:05 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_amethyst_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-10 12:13:05 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_brick_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-10 12:13:05 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-10 12:13:05 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-10 12:13:05 +0000"
     },
     "done": true
   },
@@ -6268,24 +6202,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lime_glazed_terracotta": {
-    "criteria": {
-      "has_lime_terracotta": "2024-12-10 11:48:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
-    "criteria": {
-      "has_light_blue_terracotta": "2024-12-10 11:46:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_stairs": {
-    "criteria": {
-      "has_prismarine": "2024-12-10 11:50:52 +0000"
-    },
-    "done": true
-  },
   "galosphere:recipes/building_blocks/chiseled_amethyst_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2024-12-10 12:13:05 +0000"
@@ -6297,6 +6213,102 @@
       "has_amethyst_block": "2024-12-10 12:13:05 +0000"
     },
     "done": true
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2024-12-10 12:15:51 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2024-12-10 12:48:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-12-10 12:56:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-12-10 12:56:13 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-10 13:00:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-10 13:00:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-10 13:00:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-10 13:00:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-10 13:00:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-10 13:00:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-10 13:00:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-10 13:00:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-10 13:00:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-10 13:00:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-10 13:00:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-10 13:00:56 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
