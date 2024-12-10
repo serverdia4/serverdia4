@@ -542,3 +542,65 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [10Dec2024 00:48:16.635] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -14022 Ticks
 [10Dec2024 00:55:11.232] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Nadire'/179, l='ServerLevel[world]', x=351.17, y=80.00, z=337.50] died, message: 'Nadire was grilled to perfection'
 [10Dec2024 00:55:11.233] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Nadire'/179, l='ServerLevel[world]', x=351.17, y=80.00, z=337.50] died: Nadire was grilled to perfection
+[10Dec2024 00:59:33.576] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: softfer lost connection: Disconnected
+[10Dec2024 00:59:33.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: softfer left the game
+[10Dec2024 00:59:33.582] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[10Dec2024 00:59:33.584] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client softfer
+[10Dec2024 00:59:40.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[10Dec2024 00:59:40.944] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Stopping train listener...
+[10Dec2024 00:59:40.945] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Stopping Advanced Display Data Manager...
+[10Dec2024 00:59:40.945] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All events have been closed.
+[10Dec2024 00:59:40.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Dec2024 00:59:40.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Dec2024 00:59:40.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Dec2024 00:59:41.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10Dec2024 00:59:41.188] [Advanced Display Data Manager/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Advanced Display Data Manager has been stopped.
+[10Dec2024 00:59:41.189] [CRN Train Listener/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Train listener has been stopped.
+[10Dec2024 00:59:41.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[10Dec2024 00:59:41.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[10Dec2024 00:59:41.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/createteleporters:pocket_dimension
+[10Dec2024 00:59:41.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[10Dec2024 00:59:41.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[10Dec2024 00:59:41.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[10Dec2024 00:59:41.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[10Dec2024 00:59:41.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[10Dec2024 00:59:41.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[10Dec2024 00:59:41.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[10Dec2024 00:59:41.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[10Dec2024 00:59:41.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[10Dec2024 00:59:41.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10Dec2024 00:59:41.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[10Dec2024 00:59:41.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[10Dec2024 00:59:41.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[10Dec2024 00:59:41.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[10Dec2024 00:59:41.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10Dec2024 00:59:41.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[10Dec2024 00:59:41.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[10Dec2024 00:59:41.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[10Dec2024 00:59:41.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Dec2024 00:59:41.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[10Dec2024 00:59:41.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[10Dec2024 00:59:41.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
+[10Dec2024 00:59:41.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[10Dec2024 00:59:41.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[10Dec2024 00:59:41.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[10Dec2024 00:59:41.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[10Dec2024 00:59:41.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[10Dec2024 00:59:41.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[10Dec2024 00:59:41.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[10Dec2024 00:59:41.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[10Dec2024 00:59:41.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[10Dec2024 00:59:41.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Dec2024 00:59:41.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[10Dec2024 00:59:41.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[10Dec2024 00:59:41.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[10Dec2024 00:59:41.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[10Dec2024 00:59:41.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Dec2024 00:59:41.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[10Dec2024 00:59:41.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[10Dec2024 00:59:41.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[10Dec2024 00:59:41.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10Dec2024 00:59:42.010] [Server thread/INFO] [Framework/]: Unloading server configs...
+[10Dec2024 00:59:42.013] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[10Dec2024 00:59:42.015] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[10Dec2024 00:59:42.015] [Server thread/INFO] [Framework/]: Finished unloading server configs
