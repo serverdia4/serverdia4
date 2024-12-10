@@ -12760,3 +12760,17 @@ Caused by: java.io.IOException: Packet -1/0 (ClientIntentionPacket) was larger t
 [10Dec2024 11:45:26.365] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
 [10Dec2024 11:48:33.545] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting weather2/weathersystem/storm/WeatherObjectParticleStorm$StormType
 [10Dec2024 11:49:05.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [softfer: Killed all storms]
+[10Dec2024 11:56:03.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [softfer: Set the time to 1000]
+[10Dec2024 11:56:03.392] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -36037 Ticks
+[10Dec2024 12:04:05.123] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[10Dec2024 12:06:34.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [softfer: Set the time to 1000]
+[10Dec2024 12:06:34.431] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -12620 Ticks
+[10Dec2024 12:07:20.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: softfer has made the advancement [Who is Cutting Onions?]
+[10Dec2024 12:09:37.287] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/IControlContraption$MovementMode
+[10Dec2024 12:10:52.987] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/util/formatting/text/event/HoverEvent$Action
+[10Dec2024 12:10:53.015] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/util/formatting/text/format/Style$Merge$Strategy
+[10Dec2024 12:11:44.230] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/internal/command/CommandArgParser$State
+[10Dec2024 12:12:15.095] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/EditSession$Stage
+[10Dec2024 12:12:15.098] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/extent/reorder/MultiStageReorder$PlacementPriority
+[10Dec2024 12:13:12.770] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/bearing/ClockworkContraption$HandType
+[10Dec2024 12:13:12.771] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/mounted/CartAssemblerBlockEntity$CartMovementMode
