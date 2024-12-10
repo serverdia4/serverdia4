@@ -5868,75 +5868,81 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 00:31:24 +0000"
+      "log_spam_fixer": "2024-12-10 00:41:24 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 00:31:24 +0000"
+      "log_spam_fixer": "2024-12-10 00:41:24 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 00:31:24 +0000"
+      "log_spam_fixer": "2024-12-10 00:41:24 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 00:31:24 +0000"
+      "log_spam_fixer": "2024-12-10 00:41:24 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 00:31:24 +0000"
+      "log_spam_fixer": "2024-12-10 00:41:24 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 00:31:24 +0000"
+      "log_spam_fixer": "2024-12-10 00:41:24 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 00:31:24 +0000"
+      "log_spam_fixer": "2024-12-10 00:41:24 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 00:31:24 +0000"
+      "log_spam_fixer": "2024-12-10 00:41:24 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 00:31:24 +0000"
+      "log_spam_fixer": "2024-12-10 00:41:24 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 00:31:24 +0000"
+      "log_spam_fixer": "2024-12-10 00:41:24 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 00:31:24 +0000"
+      "log_spam_fixer": "2024-12-10 00:41:24 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 00:31:24 +0000"
+      "log_spam_fixer": "2024-12-10 00:41:24 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-10 00:35:19 +0000"
+    },
+    "done": true
   },
   "rats:recipes/misc/upgrades/strength_upgrade": {
     "criteria": {
@@ -5950,9 +5956,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-10 00:35:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-10 00:35:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-10 00:35:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2024-12-10 00:35:26 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2024-12-10 00:11:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2024-12-10 00:35:19 +0000"
     },
     "done": true
   },
@@ -5986,9 +6022,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-10 00:35:19 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/tools/rat_capture_net": {
     "criteria": {
       "has_cobweb": "2024-12-10 00:11:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_end_stone": "2024-12-10 00:35:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2024-12-10 00:35:26 +0000"
     },
     "done": true
   },
@@ -6004,15 +6058,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2024-12-10 00:35:26 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/end_stone_bricks": {
+    "criteria": {
+      "has_copper_block": "2024-12-10 00:35:19 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
     "criteria": {
       "has_cobweb": "2024-12-10 00:11:31 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-10 00:35:26 +0000"
+    },
+    "done": true
+  },
   "twilightforest:root": {
     "criteria": {
       "make_portal": "2024-12-09 23:56:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-10 00:35:19 +0000"
     },
     "done": true
   },
