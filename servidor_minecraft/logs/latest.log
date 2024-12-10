@@ -12774,3 +12774,10 @@ Caused by: java.io.IOException: Packet -1/0 (ClientIntentionPacket) was larger t
 [10Dec2024 12:12:15.098] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/extent/reorder/MultiStageReorder$PlacementPriority
 [10Dec2024 12:13:12.770] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/bearing/ClockworkContraption$HandType
 [10Dec2024 12:13:12.771] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/mounted/CartAssemblerBlockEntity$CartMovementMode
+[10Dec2024 12:15:33.512] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/transmission/sequencer/InstructionSpeedModifiers
+[10Dec2024 12:15:33.513] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/foundation/gui/AllGuiTextures
+[10Dec2024 12:15:34.873] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/IControlContraption$RotationMode
+[10Dec2024 12:16:09.930] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/ContraptionCollider$PlayerType
+[10Dec2024 12:17:18.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [softfer: Set the time to 1000]
+[10Dec2024 12:17:18.746] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -12885 Ticks
+[10Dec2024 12:17:37.831] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
