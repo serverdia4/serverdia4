@@ -1339,24 +1339,6 @@
     },
     "done": true
   },
-  "toughasnails:recipes/combat/wool_helmet": {
-    "criteria": {
-      "has_wool": "2024-11-28 01:33:56 +0000"
-    },
-    "done": true
-  },
-  "toughasnails:recipes/combat/wool_leggings": {
-    "criteria": {
-      "has_wool": "2024-11-28 01:33:56 +0000"
-    },
-    "done": true
-  },
-  "toughasnails:recipes/combat/wool_chestplate": {
-    "criteria": {
-      "has_wool": "2024-11-28 01:33:56 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/kinetics/red_seat": {
     "criteria": {
       "has_wool": "2024-11-28 01:33:56 +0000"
@@ -1382,12 +1364,6 @@
     "done": true
   },
   "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
-    "criteria": {
-      "has_wool": "2024-11-28 01:33:56 +0000"
-    },
-    "done": true
-  },
-  "toughasnails:recipes/combat/wool_boots": {
     "criteria": {
       "has_wool": "2024-11-28 01:33:56 +0000"
     },
@@ -2443,12 +2419,6 @@
   "handcrafted:recipes/misc/berry_jam_jar": {
     "criteria": {
       "has_berry_jam_jar": "2024-11-28 12:52:05 +0000"
-    },
-    "done": true
-  },
-  "toughasnails:recipes/food/sweet_berry_juice": {
-    "criteria": {
-      "has_sweet_berries": "2024-11-28 12:52:05 +0000"
     },
     "done": true
   },
@@ -5822,12 +5792,6 @@
   "vinery:main/get_apple": {
     "criteria": {
       "apple": "2024-12-09 20:32:47 +0000"
-    },
-    "done": true
-  },
-  "toughasnails:recipes/food/apple_juice": {
-    "criteria": {
-      "has_apple": "2024-12-09 20:32:47 +0000"
     },
     "done": true
   },
