@@ -12757,3 +12757,6 @@ Caused by: java.io.IOException: Packet -1/0 (ClientIntentionPacket) was larger t
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
 	... 28 more
+[10Dec2024 11:45:26.365] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
+[10Dec2024 11:48:33.545] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting weather2/weathersystem/storm/WeatherObjectParticleStorm$StormType
+[10Dec2024 11:49:05.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [softfer: Killed all storms]
