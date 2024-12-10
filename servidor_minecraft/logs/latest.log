@@ -490,3 +490,17 @@ Caused by: java.io.IOException: Packet -1/0 (ClientIntentionPacket) was larger t
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
 	... 28 more
+[10Dec2024 00:06:15.579] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Network error in:packet_handler with:net.minecraft.server.network.ServerHandshakePacketListenerImpl@9bc7f9e
+io.netty.handler.timeout.ReadTimeoutException: null
+[10Dec2024 00:11:01.053] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4460ms or 89 ticks behind
+[10Dec2024 00:12:26.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [softfer: Set the time to 1000]
+[10Dec2024 00:12:26.338] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -12948 Ticks
+[10Dec2024 00:17:04.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: softfer has made the advancement [Taking from the Dead]
+[10Dec2024 00:17:34.133] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Gravel'/16818, l='ServerLevel[world]', x=196.50, y=61.00, z=-485.50]
+[10Dec2024 00:22:20.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [softfer: Set the time to 1000]
+[10Dec2024 00:22:20.987] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -11906 Ticks
+[10Dec2024 00:24:34.899] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Gravel'/18305, l='ServerLevel[world]', x=203.50, y=61.00, z=-458.50]
+[10Dec2024 00:29:04.588] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ahmed'/222, l='ServerLevel[world]', x=402.15, y=61.05, z=246.76] died, message: 'Ahmed drowned'
+[10Dec2024 00:29:04.589] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ahmed'/222, l='ServerLevel[world]', x=402.15, y=61.05, z=246.76] died: Ahmed drowned
+[10Dec2024 00:29:04.595] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
+[10Dec2024 00:29:04.602] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType

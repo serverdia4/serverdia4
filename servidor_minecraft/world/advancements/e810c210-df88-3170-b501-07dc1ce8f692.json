@@ -5868,75 +5868,147 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 00:01:20 +0000"
+      "log_spam_fixer": "2024-12-10 00:31:24 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 00:01:20 +0000"
+      "log_spam_fixer": "2024-12-10 00:31:24 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 00:01:20 +0000"
+      "log_spam_fixer": "2024-12-10 00:31:24 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 00:01:20 +0000"
+      "log_spam_fixer": "2024-12-10 00:31:24 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 00:01:20 +0000"
+      "log_spam_fixer": "2024-12-10 00:31:24 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 00:01:20 +0000"
+      "log_spam_fixer": "2024-12-10 00:31:24 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 00:01:20 +0000"
+      "log_spam_fixer": "2024-12-10 00:31:24 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 00:01:20 +0000"
+      "log_spam_fixer": "2024-12-10 00:31:24 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 00:01:20 +0000"
+      "log_spam_fixer": "2024-12-10 00:31:24 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 00:01:20 +0000"
+      "log_spam_fixer": "2024-12-10 00:31:24 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 00:01:20 +0000"
+      "log_spam_fixer": "2024-12-10 00:31:24 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 00:01:20 +0000"
+      "log_spam_fixer": "2024-12-10 00:31:24 +0000"
     },
     "done": false
+  },
+  "rats:recipes/misc/upgrades/strength_upgrade": {
+    "criteria": {
+      "has_bone": "2024-12-10 00:11:30 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/assassin_necklace": {
+    "criteria": {
+      "has_bone": "2024-12-10 00:11:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2024-12-10 00:11:30 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/tools/throw_bone": {
+    "criteria": {
+      "has_bone": "2024-12-10 00:11:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-10 00:11:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2024-12-10 00:11:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2024-12-10 00:11:30 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/tools/conducting_bone": {
+    "criteria": {
+      "has_bone": "2024-12-10 00:11:30 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/tools/rat_capture_net": {
+    "criteria": {
+      "has_cobweb": "2024-12-10 00:11:31 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_wraith": {
+    "criteria": {
+      "wraith": "2024-12-10 00:17:04 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/bone_quiver": {
+    "criteria": {
+      "has_bone": "2024-12-10 00:11:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
+    "criteria": {
+      "has_cobweb": "2024-12-10 00:11:31 +0000"
+    },
+    "done": true
   },
   "twilightforest:root": {
     "criteria": {
